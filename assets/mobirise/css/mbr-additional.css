@@ -1,6 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -472,15 +473,25 @@ h6,
 }
 #header5-5 .mbr-section-title {
   color: #000;
+  font-size: 100px;
 }
 #header5-5 .mbr-section-lead {
-  color: #9c9a9a;
+  color: #000000;
+  text-align: center;
 }
-#content1-u P {
-  text-align: left;
+#header5-5 .mbr-section-lead SPAN {
+  font-size: 30px;
 }
 #features1-j .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+  background-color: #005488;
+}
+#features1-j .mbr-cards-col:nth-child(odd) .card-text {
+  text-align: left;
+}
+#features1-j .mbr-cards-col:nth-child(even) .card-text {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  text-align: center;
 }
 #footer1-o P {
   text-align: left;
