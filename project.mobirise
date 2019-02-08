@@ -41,18 +41,14 @@
     "uniqCompNum": 31,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on",
-    "publishType": "local",
-    "publishPath": "file:///Users/pamela.rabin/Documents",
-    "gitHubName": "",
-    "gitHubPath": ""
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "MESI",
-        "meta_descr": "",
+        "title": "MESI | San Diego County Office Of Education - Innovation | #innovateSD",
+        "meta_descr": "Making | Entrepreneurship | STEAM | Inventing",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -168,7 +164,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-07%20at%202.32.37%20pm-1346x331.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-07-at-2.32.37-pm-1346x331.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#efefef",
