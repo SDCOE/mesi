@@ -38,8 +38,8 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 33,
-    "versionPublish": "4.8.8",
+    "uniqCompNum": 31,
+    "versionPublish": "4.9.1",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
   },
@@ -69,7 +69,7 @@
             "fontColor": "#00aeef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-j\">PROGRAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">ABOUT #INNOVATESD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-d\">LOCATION/DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://goo.gl/forms/iD61EwwOeMueiiwt2\" target=\"_blank\">REGISTER TO ATTEND</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-j\">PROGRAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-a\">KEYNOTE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video2-n\">2019 SPEAKER SESSION SLAMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">ABOUT #INNOVATESD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-d\">LOCATION/DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://docs.google.com/spreadsheets/d/1iw8JU7QENYfp7bhj34j3-hy_K6YdcOAtirJyP-giWj8/edit?usp=sharing\" target=\"_blank\">AGENDA/SCHEDULE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://goo.gl/forms/iD61EwwOeMueiiwt2\" target=\"_blank\">REGISTER TO ATTEND</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -138,7 +138,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MESI- Making | Entrepreneurship | STEAM | Inventing</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Making | Entrepreneurship | STEAM | Inventing</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-3"
         },
@@ -146,15 +146,10 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000",
-              "font-size": "100px"
+              "color": "#000"
             },
             ".mbr-section-lead": {
-              "color": "#000000",
-              "text-align": "center"
-            },
-            ".mbr-section-lead SPAN": {
-              "font-size": "30px"
+              "color": "#9c9a9a"
             }
           },
           "_params": {
@@ -164,7 +159,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-07%20at%202.32.37%20pm-1346x331.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2018-11-19-at-2.34.59-pm-1008x453.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#efefef",
@@ -176,9 +171,9 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.9"
           },
-          "title": "MESI<br>",
-          "text": "<span style=\"font-style: normal;\"><b>Making | Entrepreneurship | STEAM | Inventing</b></span><br><a href=\"https://www.sdcoe.net/\">San Diego County Office of Education</a><br>6401 Linda Vista Rd., San Diego, CA 92111&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/spreadsheets/d/1iw8JU7QENYfp7bhj34j3-hy_K6YdcOAtirJyP-giWj8/edit?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/iD61EwwOeMueiiwt2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER TO ATTEND</a>   ",
+          "title": "Making | Entrepreneurship | STEAM | Inventing",
+          "text": "<br><a href=\"https://www.sdcoe.net/\">San Diego County Office of Education</a><br>6401 Linda Vista Rd., San Diego, CA 92111&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/spreadsheets/d/1iw8JU7QENYfp7bhj34j3-hy_K6YdcOAtirJyP-giWj8/edit?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AGENDA/SCHEDULE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/iD61EwwOeMueiiwt2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER TO ATTEND</a>   ",
           "_tags": [
             "Theme"
           ],
@@ -187,13 +182,31 @@
         },
         {
           "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>All registrations will remain pending until payment has been received. Payment must be paid in full prior to the start of the event or you may lose your spot to a person on the waitlist. Deadline to register is Jan. 30. No refunds or fee waivers will be given after Jan. 30.<span style=\"font-size: 1.07rem;\">Substitutions will be accepted. All registration fees for active registrations after Jan. 30, 2019, will be due regardless of attendance at the event.&nbsp;</span></p><p><br></p><p>Please mail payment to: 6401 Linda Vista Road, Rm. 412, San Diego, CA 92111 Attn: Marco Gonzalez.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-u",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "columnsColor": "#005488",
-            "paddingTop": "1",
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "columns": "3",
             "bgImageRadio": false,
@@ -211,18 +224,18 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/get-mesi-save-the-date-1-600x840.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-11-19-at-10.02.27-pm-600x314.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "MESI Poster description also below",
+              "alt": "",
               "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/product-logos-350x215.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -233,7 +246,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-11-19-at-10.01.43-pm-600x325.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -266,15 +279,15 @@
               "active": true
             }
           },
-          "title1": "Digital Learning Day - Feb. 28&nbsp;<div>&nbsp;“Get MESI With Us”</div>",
+          "title1": "Join Us!",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Want to get MESI? - Join us virtually On Digital Learning Day to learn from experts discussing creative ways to set-up and sustain learning spaces where students make, invent, and learn about entrepreneurship and STEAM.<br><br>This is a free, virtual conference with drop-in sessions throughout the day. Sign in from any computer, ask questions or just follow along.",
-          "title2": "MESI Symposium - Coming in June<div>\"A MESI Day of Learning and Discussion\"&nbsp;</div>",
+          "caption1": "Join others interested in igniting\ninnovation and learning for all\nstudents in their classroom.<br><br><br>",
+          "title2": "G Suite for Education",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "This will be a one-day experience for educators featuring:<br>Computational Thinking -creating order out of complexity<br> Design Thinking - empathy with humanity<br>Critical Thinking -deeper learning through experience<br>",
-          "title3": "MESI Cohorts - Coming soon<br>\"A MESI Group of Learners with Common Goals\"",
+          "caption2": "Foster collaboration with G Suite for Education.&nbsp;70 million educators and students use G Suite for Education: a suite of free, secure productivity tools. Popular tools like Gmail and Google Docs enable easy classroom collaboration.",
+          "title3": "Innovation in Education",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "\"The most successful organizations in the world are the ones who work together, play together, and get messy together.\" <br><br>-Jeanne Malati<br>",
+          "caption3": "Technology for Littles<br>Technology with California Content Standards<br>STEM/STEAM<br>Assistive Technologies<br>Physical Education",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -297,18 +310,89 @@
           "_anchor": "features1-j",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#005488"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "text-align": "left"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "background-color": "#2e2e2e"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "40",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-11-19-at-10.21.36-pm-1108x962.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Keynote by <br>Jeffery Heil&nbsp;",
+          "text": "Jeffery Heil is a well-known speaker and consultant specializing in technology integration in\nsupport of educational equity. We are proud to have him as a team member in his role as a\ntechnology integration teacher with the San Diego County Office of Education Juvenile\nCourt and Community Schools. Jeff received the 2015 Innovative Educator of the Year award\nfrom the Classroom of the Future Foundation.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-a"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-11-19-at-10.30.14-pm-1400x875.png",
+              "width": 1400,
+              "link": "https://flipgrid.com/87b7874c",
+              "alt": "https://flipgrid.com/87b7874c",
+              "title": "https://flipgrid.com/87b7874c",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "<b>2019 Speaker Session Slams! </b><br>Visit our <a href=\"https://flipgrid.com/87b7874c\">Flipgrid page</a>! We are overwhelmed by the expertise and collective knowledge exemplified by our presenters for this event. We could tell you all about it, but we thought you'd like to hear from them.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-n"
         },
         {
           "_params": {
@@ -317,8 +401,8 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -370,8 +454,8 @@
               "state": "ok",
               "stateDetails": ""
             },
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": 4,
+            "paddingBottom": 4,
             "bgColor": "#fff"
           },
           "_tags": [
