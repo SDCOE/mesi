@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "MESI | San Diego County Office of Education - Innovation | #innovateSD",
+    "name": "Making w Entrepreneurship w STEAM w Inventing | San Diego County Office of Education - Innovation | #innovateSD",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -43,7 +43,7 @@
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
     "publishType": "local",
-    "publishPath": "file:///Users/pamela.rabin/Documents",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/mesi",
     "gitHubName": "",
     "gitHubPath": ""
   },
@@ -51,7 +51,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Learning + Innovation Summit | San Diego County Office of Education - Innovation |#innovateSD",
+        "title": "Learning & Innovation Summit | San Diego County Office of Education - Innovation | #innovateSD",
         "meta_descr": "LEARNING & INNOVATION SUMMIT\nDecember 1, 2018 | 8:00am - 4:00pm\nMonarch School\n1625 Newton Ave., San Diego, CA 92113 ",
         "header_custom": "",
         "footer_custom": "",
@@ -288,9 +288,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATION COMING SOON<br>Click here to join our interest list<br></a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATION COMING<br>Click hereto join our interest list<br></a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN US SOON<br>Click here to join our interest list<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">REGISTER TO ATTEND</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">REGISTRATION COMING</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">JOIN US SOON</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
