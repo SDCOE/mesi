@@ -41,7 +41,9 @@
     "uniqCompNum": 33,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents"
   },
   "pages": {
     "index.html": {
@@ -69,7 +71,7 @@
             "fontColor": "#00aeef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-j\">PROGRAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">ABOUT #INNOVATESD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-d\">LOCATION/DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://goo.gl/forms/iD61EwwOeMueiiwt2\" target=\"_blank\">REGISTER TO ATTEND</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-j\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">ABOUT #INNOVATESD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-d\">LOCATION/DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://goo.gl/forms/iD61EwwOeMueiiwt2\" target=\"_blank\">Return to #innovateSD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -160,7 +162,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
@@ -174,11 +176,11 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.9"
+            "overlayOpacity": "0.7"
           },
           "title": "MESI<br>",
           "text": "<span style=\"font-style: normal;\"><b>Making | Entrepreneurship | STEAM | Inventing</b></span><br><a href=\"https://www.sdcoe.net/\">San Diego County Office of Education</a><br>6401 Linda Vista Rd., San Diego, CA 92111&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/spreadsheets/d/1iw8JU7QENYfp7bhj34j3-hy_K6YdcOAtirJyP-giWj8/edit?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/iD61EwwOeMueiiwt2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER TO ATTEND</a>   ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/spreadsheets/d/1iw8JU7QENYfp7bhj34j3-hy_K6YdcOAtirJyP-giWj8/edit?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://docs.google.com/spreadsheets/d/1iw8JU7QENYfp7bhj34j3-hy_K6YdcOAtirJyP-giWj8/edit?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENTS</a>    ",
           "_tags": [
             "Theme"
           ],
@@ -191,7 +193,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false,
+            "showButtons": true,
             "columnsColor": "#005488",
             "paddingTop": "1",
             "paddingBottom": "2",
@@ -284,9 +286,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">REGISTER TO ATTEND</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">REGISTRATION COMING</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">REGISTRATION COMING</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
