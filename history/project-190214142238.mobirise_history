@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MESI | San Diego County Office of Education - Innovation | #innovateSD",
-    "currentPage": "mesiwithus.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -38,7 +38,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 43,
+    "uniqCompNum": 31,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
@@ -73,7 +73,7 @@
             "fontColor": "#00aeef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-j\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-j\">Digital Learning Day - Get MESI with Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">ABOUT #INNOVATESD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-d\">LOCATION/DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://goo.gl/forms/iD61EwwOeMueiiwt2\" target=\"_blank\">Return to #innovateSD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-j\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">ABOUT #INNOVATESD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-d\">LOCATION/DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://goo.gl/forms/iD61EwwOeMueiiwt2\" target=\"_blank\">Return to #innovateSD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -386,8 +386,8 @@
         },
         {
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "1",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -406,271 +406,6 @@
           "_styles": {
             "P": {
               "text-align": "left"
-            }
-          }
-        }
-      ]
-    },
-    "mesiwithus.html": {
-      "settings": {
-        "meta_descr": "Web Page Creator Description",
-        "title": "Digital Learning Day - Get MESI With Us",
-        "order": 1
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": "0.8",
-            "fontName": {},
-            "fontColor": "#00aeef",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-j\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-j\">Digital Learning Day - Get MESI with Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">ABOUT #INNOVATESD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-d\">LOCATION/DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://goo.gl/forms/iD61EwwOeMueiiwt2\" target=\"_blank\">Return to #innovateSD</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "18px"
-            },
-            ".navbar-toggler": {
-              "color": "#00aeef"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#00aeef"
-            },
-            ".link, .dropdown-item": {
-              "color": "#00aeef"
-            },
-            ".link": {
-              "font-size": "0.8rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#00aeef",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#005488!important"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-secondary-507x128.png",
-              "height": 128,
-              "alt": "Home",
-              "link": "#top",
-              "title": "Home",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MESI- Making | Entrepreneurship | STEAM | Inventing</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-w"
-        },
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "The San Diego County Offi\u001fce of Education is committed to ensuring equal, fair, and meaningful access to employment and education services. SDCOE does not discriminate in its employment practices or educational programs and activities on the basis of race, color, national or ethnic origin, ancestry, age, religion or religious creed, marital status, pregnancy or parental status, physical or mental disability or handicap, sex or gender, gender/transgender identity and expression, sexual orientation, military or veteran status, political affi\u001fliation, genetic information, a perception of one or more of such characteristics, association with a person of group with one or more of these actual or perceived characteristics, or any other characteristic protected under applicable federal, state or local law as applicable to educational services and/or employment. More detailed SDCOE policies and regulations can be found at <a href=\"http://www.sdcoe.net/nondiscrimination\" target=\"_blank\">www.sdcoe.net/nondiscrimination.</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "footer1-x"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Guest Speakers",
-          "meta": "Digital Learning Day | Get MESI With Us | Feb. 28",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-16"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "columns": "5",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/lauraspencer-399x399.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/grantlictman-400x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/joshweisgrau-400x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/ericchagala-400x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/danhendricks-399x399.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Laura Spencer, Ed.D.",
-          "subtitle1": "<b>@LSpencerEdD</b><br><a href=\"http://laurakspencer.com\" target=\"_blank\" class=\"text-success\"><b>laurakspencer.com</b></a><br>",
-          "caption1": "Laura is the Executive Director of Innovation and Design for Del Mar Union School District, and a former Director of Educational Technology. An award-winning educator and administrator, Laura is committee to ensuring that students engage in authentic, meaningful learning experiences to prepare them for their future. Laura is committed to providing an extraordinary school experience for all students. Through coaching teachers and site administrators on how to infuse Design Thinking, technology, and real-world connections into core instruction, students experience personalized learning that develops agency and the skills that matter most. Laura has been honored as the Top Tech Exec of San Diego County from among 600 teach leaders, as well as the Classroom of the Future Foundation Innovative Educator of the Year. She also serves as President of San Diego Computer Using Educators (<a href=\"http://sdcue.org\" target=\"_blank\" class=\"text-primary\">SDCUE</a>) and is a Founding Board Member of <a href=\"http://adinaeducation.net/EquityEDU/\" target=\"_blank\" class=\"text-primary\">EquityEDU</a>.<br>",
-          "title2": "Grant Lichtman,&nbsp;",
-          "subtitle2": "@GrantLichtman<br><a href=\"http://grantlichtman.com\" target=\"_blank\" class=\"text-success\"><b>grantlichtman.com</b></a>",
-          "caption2": "What can you and your school team do to help fundamentally transform our outdated system of education?  How are other schools and districts, facing the same obstacles as you, making this shift to a more student-centric, engaging, deeper learning experience?  Join internationally-recognized thought leader and author Grant Lichtman as we discuss the seven \"levers\" of school transformation that we can all press, based on his latest book, Moving the Rock.<br><a href=\"mailto:grantlichtman1@gmail.com\" class=\"text-primary\">grantlichtman1@gmail.com</a><br>",
-          "title3": "Josh Weisgrau",
-          "subtitle3": "@jweisgrau<br><a href=\"http://joshweisgrau.com\" target=\"_blank\" class=\"text-success\"><b>joshweisgrau.com</b></a><br>",
-          "caption3": "Josh is the Director of Learning Experience Design at <a href=\"http://digitalpromise.org\" target=\"_blank\" class=\"text-primary\">Digital Promise</a>, leading a portfolio of projects working with schools and educators to design learning experiences that will empower the next generation of creators and change-makers. Prior to joining Digital Promise, Josh taught making, media, and design in middle and high school, and worked with several schools to establish maker-learning programs and spaces.",
-          "title4": "Eric Chagala, Ed.D.",
-          "subtitle4": "@drchagala<br><a href=\"http://ericchagala.com\" target=\"_blank\" class=\"text-success\"><b>ericchagala.com</b></a>",
-          "caption4": "Eric Chagala (Ed.D. Educational Leadership) is the founding principal of the Vista Innovation &amp; Design Academy (VIDA). Eric believes that all kids need a place to matter, that schools have souls and those souls need to be nurtured, and that our actions say what we believe about kids. <br><br>Eric’s belief in Design Thinking for education is deeply rooted in his dissertation that focused on the critical resiliency of high achieving Latino youth. This research solidified the knowledge (not just belief) that schools have the power to either defeat or to perpetuate the status-quo of a neighborhood.<br><br>Eric has spoken across North America in both workshops &amp; Keynotes about Design Thinking, and to talk what it takes for school leaders to build a true school culture that will be ripe for innovation. In addition, Eric is on the Faculty for the Graduate School at High Tech High, he is an Apprentice Coach with Stanford University's \"School Re-Tool\" work at the famed http://d.School  (Institute of Design), and is a Deeper Learning Fellow with DLLF. In addition, Eric is the Co-Founder of <a href=\"https://designcampsd.weebly.com/\" target=\"_blank\" class=\"text-primary\">#DesignCamp </a>for Education.<br>",
-          "title5": "Dan Hendricks",
-          "subtitle5": "<br><a href=\"https://www.opensourcemakerlabs.com/page/our-staff\" target=\"_blank\" class=\"text-success\"><b>osml</b></a>",
-          "caption5": "Dan Hendricks is the founder and President of Open Source Maker Labs. Dan has over 30 years of experience in the Navy, as a Nuclear Engineering Officer, Surface Warfare Officer and Engineering Duty Officer, retiring at the rank of Captain (O-6). He has a bachelor of science degree in mathematics from the Naval Academy, and a master of science degree in computer science from the Naval Postgraduate School. Since leaving active duty, Dan has worked in both the private and public sector in roles of increasing responsibility in program management and budgeting, network architecture, systems engineering, and computer security. Dan is a registered Professional Engineer (Electrical) in the state of Washington, and is a Certified Information Systems Security Professional (CISSP). He is a member of IEEE, IEEE Computer Society, IEEE Communications Society, and a founding member of the San Diego Tech Hub.<br>",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"http://joshweisgrau.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-10",
-          "_styles": {
-            "H5": {
-              "color": "#2969b0",
-              "text-align": "center",
-              "font-size": "16px"
             }
           }
         }
