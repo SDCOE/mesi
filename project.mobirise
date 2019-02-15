@@ -38,14 +38,10 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 43,
+    "uniqCompNum": 45,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on",
-    "publishType": "local",
-    "publishPath": "file:///Users/pamela.rabin/Documents",
-    "gitHubName": "",
-    "gitHubPath": ""
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -73,7 +69,7 @@
             "fontColor": "#00aeef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-j\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-j\">Digital Learning Day - Get MESI with Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">ABOUT #INNOVATESD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-d\">LOCATION/DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://goo.gl/forms/iD61EwwOeMueiiwt2\" target=\"_blank\">Return to #innovateSD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-j\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-j\">Digital Learning Day - Get MESI with Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">ABOUT #INNOVATESD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-d\">LOCATION/DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://goo.gl/forms/iD61EwwOeMueiiwt2\" target=\"_blank\">Return to #innovateSD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -168,7 +164,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-07%20at%202.32.37%20pm-1346x331.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-07-at-2.32.37-pm-1346x331.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#efefef",
@@ -433,7 +429,7 @@
             "fontColor": "#00aeef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-j\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-j\">Digital Learning Day - Get MESI with Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">ABOUT #INNOVATESD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-d\">LOCATION/DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://goo.gl/forms/iD61EwwOeMueiiwt2\" target=\"_blank\">Return to #innovateSD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-j\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-j\">Digital Learning Day - Get MESI with Us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">ABOUT #INNOVATESD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-d\">LOCATION/DIRECTIONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://goo.gl/forms/iD61EwwOeMueiiwt2\" target=\"_blank\">Return to #innovateSD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -532,16 +528,89 @@
           "_anchor": "footer1-x"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/workspace-1-599x450.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Digital Learning Day",
+          "text": "Get MESI With US",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-18",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#000000",
+              "font-size": "24px"
+            },
+            "B": {
+              "font-size": "30px"
+            },
+            "SPAN": {
+              "color": "#000000",
+              "font-size": "48px"
+            },
+            "H3": {
+              "text-align": "center",
+              "color": "#005488"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "5",
+            "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#7e9b9f"
           },
           "title": "Guest Speakers",
           "meta": "Digital Learning Day | Get MESI With Us | Feb. 28",

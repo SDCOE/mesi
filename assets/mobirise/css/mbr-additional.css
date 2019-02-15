@@ -496,3 +496,96 @@ h6,
 #footer1-o P {
   text-align: left;
 }
+#ext_menu-w .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-w .navbar-caption {
+  color: #ffffff;
+  font-size: 18px;
+}
+#ext_menu-w .navbar-toggler {
+  color: #00aeef;
+}
+#ext_menu-w .close-icon::before,
+#ext_menu-w .close-icon::after {
+  background-color: #00aeef;
+}
+#ext_menu-w .link,
+#ext_menu-w .dropdown-item {
+  color: #00aeef;
+}
+#ext_menu-w .link {
+  font-size: 0.8rem;
+}
+#ext_menu-w .dropdown-item,
+#ext_menu-w .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-w .link:hover,
+#ext_menu-w .dropdown-item:hover,
+#ext_menu-w .link:focus,
+#ext_menu-w .dropdown-item:focus {
+  color: #005488;
+}
+#ext_menu-w .link[aria-expanded="true"],
+#ext_menu-w .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-w .nav-dropdown-sm .link:focus,
+#ext_menu-w .nav-dropdown-sm .link:hover,
+#ext_menu-w .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-w .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-w .navbar,
+#ext_menu-w .nav-dropdown-sm,
+#ext_menu-w .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-w .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-w .bg-color.transparent .link {
+  color: #00aeef;
+  transition: none;
+}
+#ext_menu-w .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-w .bg-color.transparent.opened .link:hover,
+#ext_menu-w .bg-color.transparent.opened .link:focus {
+  color: #005488;
+}
+#ext_menu-w .link[aria-expanded="true"],
+#ext_menu-w .dropdown-item[aria-expanded="true"] {
+  color: #005488!important;
+}
+#footer1-x P {
+  text-align: left;
+}
+#msg-box5-18 P {
+  text-align: center;
+  color: #000000;
+  font-size: 24px;
+}
+#msg-box5-18 B {
+  font-size: 30px;
+}
+#msg-box5-18 SPAN {
+  color: #000000;
+  font-size: 48px;
+}
+#msg-box5-18 H3 {
+  text-align: center;
+  color: #005488;
+}
+#header3-16 .mbr-section-title,
+#header3-16 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-16 .mbr-section-subtitle {
+  color: #ffffff;
+}
+#features3-10 H5 {
+  color: #2969b0;
+  text-align: center;
+  font-size: 16px;
+}
