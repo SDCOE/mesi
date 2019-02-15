@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MESI | San Diego County Office of Education - Innovation | #innovateSD",
-    "currentPage": "index.html",
+    "currentPage": "mesiwithus.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -284,7 +284,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATION COMING SOON<br>Click here to join our interest list<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More Information<br>&amp; Registration&nbsp;<br></a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATION COMING<br>Click hereto join our interest list<br></a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN US SOON<br>Click here to join our interest list<br></a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -553,7 +553,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/workspace-1-599x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/get-mesi-save-the-date-816x1142.jpg",
               "link": "",
               "alt": "",
               "title": ""
