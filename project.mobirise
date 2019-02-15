@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MESI | San Diego County Office of Education - Innovation | #innovateSD",
-    "currentPage": "index.html",
+    "currentPage": "mesiwithus.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -554,9 +554,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/get-mesi-save-the-date-816x1142.jpg",
-              "link": "",
+              "link": "https://drive.google.com/open?id=0B9fUIWESC5EkUDN0djIwV1ZBalU",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
