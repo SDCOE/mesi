@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MESI | San Diego County Office of Education - Innovation | #innovateSD",
-    "currentPage": "index.html",
+    "currentPage": "mesiwithus.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -24,7 +24,8 @@
         "#282828",
         "#00aeef",
         "#005488",
-        "#dae8f1"
+        "#dae8f1",
+        "#2e2e2e"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -535,7 +536,7 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "4",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
@@ -655,51 +656,51 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Laura Spencer image from Twitter",
               "title": ""
             }
           },
           "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/grantlictman-400x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/joshweisgrau-400x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Josh Weisgrau image from Twitter",
               "title": ""
             }
           },
-          "media4": {
+          "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ericchagala-400x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Ed Chagala image from Twitter",
               "title": ""
             }
           },
-          "media5": {
+          "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/danhendricks-399x399.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Dan Hendricks image from OSML website",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/grantlictman-400x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Grant Lichtman image from Twitter",
               "title": ""
             }
           },
@@ -712,20 +713,20 @@
             }
           },
           "title1": "Laura Spencer, Ed.D.",
-          "subtitle1": "<b>@LSpencerEdD</b><br><a href=\"http://laurakspencer.com\" target=\"_blank\" class=\"text-success\"><b>laurakspencer.com</b></a><br>",
-          "caption1": "Laura is the Executive Director of Innovation and Design for Del Mar Union School District, and a former Director of Educational Technology. An award-winning educator and administrator, Laura is committee to ensuring that students engage in authentic, meaningful learning experiences to prepare them for their future. Laura is committed to providing an extraordinary school experience for all students. Through coaching teachers and site administrators on how to infuse Design Thinking, technology, and real-world connections into core instruction, students experience personalized learning that develops agency and the skills that matter most. Laura has been honored as the Top Tech Exec of San Diego County from among 600 teach leaders, as well as the Classroom of the Future Foundation Innovative Educator of the Year. She also serves as President of San Diego Computer Using Educators (<a href=\"http://sdcue.org\" target=\"_blank\" class=\"text-primary\">SDCUE</a>) and is a Founding Board Member of <a href=\"http://adinaeducation.net/EquityEDU/\" target=\"_blank\" class=\"text-primary\">EquityEDU</a>.<br>",
-          "title2": "Grant Lichtman,&nbsp;",
-          "subtitle2": "@GrantLichtman<br><a href=\"http://grantlichtman.com\" target=\"_blank\" class=\"text-success\"><b>grantlichtman.com</b></a>",
-          "caption2": "What can you and your school team do to help fundamentally transform our outdated system of education?  How are other schools and districts, facing the same obstacles as you, making this shift to a more student-centric, engaging, deeper learning experience?  Join internationally-recognized thought leader and author Grant Lichtman as we discuss the seven \"levers\" of school transformation that we can all press, based on his latest book, Moving the Rock.<br><a href=\"mailto:grantlichtman1@gmail.com\" class=\"text-primary\">grantlichtman1@gmail.com</a><br>",
-          "title3": "Josh Weisgrau",
-          "subtitle3": "@jweisgrau<br><a href=\"http://joshweisgrau.com\" target=\"_blank\" class=\"text-success\"><b>joshweisgrau.com</b></a><br>",
-          "caption3": "Josh is the Director of Learning Experience Design at <a href=\"http://digitalpromise.org\" target=\"_blank\" class=\"text-primary\">Digital Promise</a>, leading a portfolio of projects working with schools and educators to design learning experiences that will empower the next generation of creators and change-makers. Prior to joining Digital Promise, Josh taught making, media, and design in middle and high school, and worked with several schools to establish maker-learning programs and spaces.",
-          "title4": "Eric Chagala, Ed.D.",
-          "subtitle4": "@drchagala<br><a href=\"http://ericchagala.com\" target=\"_blank\" class=\"text-success\"><b>ericchagala.com</b></a>",
-          "caption4": "Eric Chagala (Ed.D. Educational Leadership) is the founding principal of the Vista Innovation &amp; Design Academy (VIDA). Eric believes that all kids need a place to matter, that schools have souls and those souls need to be nurtured, and that our actions say what we believe about kids. <br><br>Eric’s belief in Design Thinking for education is deeply rooted in his dissertation that focused on the critical resiliency of high achieving Latino youth. This research solidified the knowledge (not just belief) that schools have the power to either defeat or to perpetuate the status-quo of a neighborhood.<br><br>Eric has spoken across North America in both workshops &amp; Keynotes about Design Thinking, and to talk what it takes for school leaders to build a true school culture that will be ripe for innovation. In addition, Eric is on the Faculty for the Graduate School at High Tech High, he is an Apprentice Coach with Stanford University's \"School Re-Tool\" work at the famed http://d.School  (Institute of Design), and is a Deeper Learning Fellow with DLLF. In addition, Eric is the Co-Founder of <a href=\"https://designcampsd.weebly.com/\" target=\"_blank\" class=\"text-primary\">#DesignCamp </a>for Education.<br>",
-          "title5": "Dan Hendricks",
-          "subtitle5": "@OSMakerLabs<br><b><a href=\"https://www.opensourcemakerlabs.com/page/our-staff\" target=\"_blank\" class=\"text-success\">osml</a>.com</b>",
-          "caption5": "Dan Hendricks is the founder and President of Open Source Maker Labs. Dan has over 30 years of experience in the Navy, as a Nuclear Engineering Officer, Surface Warfare Officer and Engineering Duty Officer, retiring at the rank of Captain (O-6). He has a bachelor of science degree in mathematics from the Naval Academy, and a master of science degree in computer science from the Naval Postgraduate School. Since leaving active duty, Dan has worked in both the private and public sector in roles of increasing responsibility in program management and budgeting, network architecture, systems engineering, and computer security. Dan is a registered Professional Engineer (Electrical) in the state of Washington, and is a Certified Information Systems Security Professional (CISSP). He is a member of IEEE, IEEE Computer Society, IEEE Communications Society, and a founding member of the San Diego Tech Hub.<br>",
+          "subtitle1": "@LSpencerEdD<br><a href=\"http://laurakspencer.com\" target=\"_blank\" class=\"text-primary\"><b>laurakspencer.com</b></a><br>",
+          "caption1": "Laura is the Executive Director of Innovation and Design for Del Mar Union School District, and a former Director of Educational Technology. An award-winning educator and administrator, Laura is committee to ensuring that students engage in authentic, meaningful learning experiences to prepare them for their future. Laura is committed to providing an extraordinary school experience for all students. Through coaching teachers and site administrators on how to infuse Design Thinking, technology, and real-world connections into core instruction, students experience personalized learning that develops agency and the skills that matter most. Laura has been honored as the Top Tech Exec of San Diego County from among 600 teach leaders, as well as the Classroom of the Future Foundation Innovative Educator of the Year. She also serves as President of <a href=\"http://sdcue.org\" target=\"_blank\" class=\"text-primary\">San Diego Computer Using Educators (SDCUE)</a> and is a Founding Board Member of <a href=\"http://adinaeducation.net/EquityEDU/\" target=\"_blank\" class=\"text-primary\">EquityEDU</a>.<br>",
+          "title2": "Josh Weisgrau",
+          "subtitle2": "@jweisgrau<div><a href=\"http://www.joshweisgrau.com/\" target=\"_blank\" class=\"text-primary\"><b>joshweisgrau.com</b></a></div>",
+          "caption2": "Josh is the Director of Learning Experience Design at <a href=\"https://digitalpromise.org/\" target=\"_blank\" class=\"text-primary\">Digital Promise</a>, leading a portfolio of projects working with schools and educators to design learning experiences that will empower the next generation of creators and change-makers. <br>Prior to joining Digital Promise, Josh helped develop the makerspace and maker learning program at Friends’ Central School in Wynnewood, PA, and has taught Photography, Information and Digital Literacy, Computer Science, Shop, and STEAM. He is a co-founder of Rough Cut Schools, consulting and advocating for media literacy and production in schools around the world. Before that, he worked in theaters and schools teaching kids about technical theater and design. Josh has a B.A. in theater from Wesleyan University and a Masters of Liberal Arts with a focus in media and cultural studies from Temple University.",
+          "title3": "Eric Chagala, Ed.D.",
+          "subtitle3": "@drchagala<div><a href=\"https://ericchagala.weebly.com/\" target=\"_blank\" class=\"text-primary\"><b>ericchagala.com</b></a></div>",
+          "caption3": "Eric Chagala (Ed.D. Educational Leadership) is the founding principal of the Vista Innovation &amp; Design Academy (VIDA). Eric believes that all kids need a place to matter, that schools have souls and those souls need to be nurtured, and that our actions say what we believe about kids. <br><br>Eric’s belief in Design Thinking for education is deeply rooted in his dissertation that focused on the critical resiliency of high achieving Latino youth. This research solidified the <b>knowledge</b> (not just belief) that schools have the power to either defeat or to perpetuate the status-quo of a neighborhood.<br><br>Eric has spoken across North America in both workshops &amp; Keynotes about Design Thinking, and to talk what it takes for school leaders to build a true school culture that will be ripe for innovation. In addition, Eric is on the Faculty for the Graduate School at High Tech High, he is an Apprentice Coach with Stanford University's \"School Re-Tool\" work at the famed <a href=\"https://dschool.stanford.edu/\" target=\"_blank\" class=\"text-primary\">d.School </a>(Institute of Design), and is a Deeper Learning Fellow with DLLF. In addition, Eric is the Co-Founder of <a href=\"https://designcampsd.weebly.com/\" target=\"_blank\" class=\"text-primary\">#DesignCamp for Education</a>.",
+          "title4": "Dan Hendricks",
+          "subtitle4": "@OSMakerLabs<div><a href=\"https://www.opensourcemakerlabs.com/page/our-staff\" target=\"_blank\" class=\"text-primary\"><b>osml.com</b></a></div>",
+          "caption4": "Dan Hendricks is the founder and President of Open Source Maker Labs. Dan has over 30 years of experience in the Navy, as a Nuclear Engineering Officer, Surface Warfare Officer and Engineering Duty Officer, retiring at the rank of Captain (O-6). He has a bachelor of science degree in mathematics from the Naval Academy, and a master of science degree in computer science from the Naval Postgraduate School. Since leaving active duty, Dan has worked in both the private and public sector in roles of increasing responsibility in program management and budgeting, network architecture, systems engineering, and computer security. Dan is a registered Professional Engineer (Electrical) in the state of Washington, and is a Certified Information Systems Security Professional (CISSP). He is a member of<a href=\"https://www.ieee.org/\" target=\"_blank\" class=\"text-primary\"> IEEE</a>&nbsp;(, <a href=\"https://www.computer.org/\" target=\"_blank\" class=\"text-primary\">IEEE Computer Society</a>, <a href=\"https://www.comsoc.org/\" target=\"_blank\" class=\"text-primary\">IEEE Communications Society</a>, and a founding member of the <a href=\"https://www.sandiegotechhub.com\" target=\"_blank\" class=\"text-primary\">San Diego Tech Hub</a>.<br>",
+          "title5": "Grant Lichtman",
+          "subtitle5": "@GrantLictman<br><a href=\"http://www.grantlictman.com\" class=\"text-primary\"><b>grantlichtman.com</b></a>",
+          "caption5": "What can you and your school team do to help fundamentally transform our outdated system of education? How are other schools and districts, facing the same obstacles as you, making this shift to a more student-centric, engaging, deeper learning experience? Join internationally-recognized thought leader and author Grant Lichtman as we consider and discuss seven \"levers\" of school transformation that WE can all press, as described in his latest book, <i><a href=\"http://www.grantlichtman.com/retailers/\" target=\"_blank\" class=\"text-primary\">Moving the Rock</a>.</i><br><br>Grant Lichtman is an internationally-recognized thought leader on the transformation of K-12 education. He works with school teams to develop a comfort and capacity for change in a rapidly changing world. For almost 15 years, Grant was a trustee and senior administrator at one of the largest independent schools in the United States. Since 2012, Grant has visited more than 125 schools and districts, published three books, written numerous articles, and worked with thousands of school and community stakeholders to develop unique and powerful visions and strategies for transforming education away from the Industrial Age and towards future-focused models of deeper learning.<br>",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
@@ -777,7 +778,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false,
+            "showButtons": true,
             "columnsColor": "#2e2e2e",
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -843,14 +844,14 @@
               "active": true
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "title1": "Overview of \"Making\"",
+          "subtitle1": "How to start and sustain the maker mindet in your school or classroom",
+          "caption1": "<i><br>Moderators</i><br><b>Jewyl Clarke<br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Josh Weisgrau</b><br><br>",
+          "title2": "Highlights from Del Mar Unified School District",
+          "subtitle2": "One example of a makerspace in a library setting",
+          "caption2": "<i><br>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Laura Spencer</b><br>",
+          "title3": "TBA",
+          "subtitle3": "coming soon",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
@@ -861,10 +862,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/cbd3250cc585075b4ac87b605f06faf5\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9:20-10:15<br>ZOOM LINK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/dc69c38f0e990098dc2040ba88984b7b \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10:30<br>ZOOM LINK</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">11:00<br>ZOOM LINK</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ZOOM LINK</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -875,6 +876,21 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-size": "16px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "font-size": "16px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "24px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "24px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "font-size": "16px"
             }
           }
         },
