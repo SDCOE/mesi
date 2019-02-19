@@ -592,6 +592,16 @@ h6,
   text-align: center;
   font-size: 16px;
 }
+#features3-10 B {
+  color: #90a878;
+}
+#header3-y .mbr-section-title,
+#header3-y .mbr-section-subtitle {
+  text-align: center;
+}
+#features1-x .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 #social-buttons3-19 .mbr-section-title,
 #social-buttons3-19 .btn-social {
   color: #fff;

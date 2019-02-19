@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MESI | San Diego County Office of Education - Innovation | #innovateSD",
-    "currentPage": "index.html",
+    "currentPage": "mesiwithus.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -23,8 +23,7 @@
       "additionalSetColors": [
         "#282828",
         "#00aeef",
-        "#005488",
-        "#dae8f1"
+        "#005488"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -39,10 +38,14 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 31,
-    "versionPublish": "4.9.3",
+    "uniqCompNum": 35,
+    "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents",
+    "gitHubName": "",
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
@@ -245,7 +248,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -272,10 +275,10 @@
           "caption1": "Want to get MESI? - Join us virtually On Digital Learning Day to learn from experts discussing creative ways to set-up and sustain learning spaces where students make, invent, and learn about entrepreneurship and STEAM.<br><br>This is a free, virtual conference with drop-in sessions throughout the day. Sign in from any computer, ask questions or just follow along.",
           "title2": "MESI Symposium - Coming in June<div>\"A MESI Day of Learning and Discussion\"&nbsp;</div>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "This will be a one-day experience for educators featuring:<br>Computational Thinking -creating order out of complexity<br> Design Thinking - empathy with humanity<br>Critical Thinking -deeper learning through experience<br><br><br><br><br>",
+          "caption2": "This will be a one-day experience for educators featuring:<br>Computational Thinking -creating order out of complexity<br> Design Thinking - empathy with humanity<br>Critical Thinking -deeper learning through experience<br>",
           "title3": "MESI Cohorts - Coming soon<br>\"A MESI Group of Learners with Common Goals\"",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "\"The most successful organizations in the world are the ones who work together, play together, and get messy together.\" <br><br>-Jeanne Malati<br><br><br>",
+          "caption3": "\"The most successful organizations in the world are the ones who work together, play together, and get messy together.\" <br><br>-Jeanne Malati<br>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -285,9 +288,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"mesiwithus.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">DIGITAL LEARNING DAY&nbsp;<br>Day Subpage<br></a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATION COMING<br>Click hereto join our interest list<br></a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN US SOON<br>Click here to join our interest list<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"mesiwithus.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">More Information<br>&amp; Registration&nbsp;<br></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATION COMING<br>Click hereto join our interest list<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN US SOON<br>Click here to join our interest list<br></a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -324,7 +327,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#dae8f1",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -797,7 +800,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -805,7 +808,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -813,7 +816,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -821,7 +824,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
