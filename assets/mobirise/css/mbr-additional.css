@@ -617,6 +617,24 @@ h6,
 #features1-x .mbr-cards-col:nth-child(even) .card-subtitle {
   font-size: 16px;
 }
+#features1-v .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #7e9b9f;
+}
+#features1-v .mbr-cards-col:nth-child(odd) .card-text {
+  font-size: 16px;
+}
+#features1-v .mbr-cards-col:nth-child(odd) .card-subtitle {
+  font-size: 16px;
+}
+#features1-v .mbr-cards-col:nth-child(odd) .card-title {
+  font-size: 24px;
+}
+#features1-v .mbr-cards-col:nth-child(even) .card-title {
+  font-size: 24px;
+}
+#features1-v .mbr-cards-col:nth-child(even) .card-subtitle {
+  font-size: 16px;
+}
 #social-buttons3-19 .mbr-section-title,
 #social-buttons3-19 .btn-social {
   color: #fff;
