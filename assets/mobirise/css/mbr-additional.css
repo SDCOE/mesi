@@ -591,6 +591,41 @@ h6,
 #features3-10 B {
   color: #90a878;
 }
+#features3-10 P {
+  font-size: 14px;
+}
+#msg-box5-15 P {
+  text-align: right;
+  color: #ffffff;
+  font-size: 15px;
+}
+#msg-box5-15 B {
+  font-size: 30px;
+  color: #ffffff;
+}
+#msg-box5-15 H3 {
+  color: #ffffff;
+}
+#content1-12 P {
+  text-align: left;
+  color: #000000;
+}
+#msg-box5-10 P {
+  text-align: right;
+  color: #ffffff;
+  font-size: 16px;
+}
+#msg-box5-10 B {
+  font-size: 30px;
+  color: #ffffff;
+}
+#msg-box5-10 H3 {
+  color: #ffffff;
+}
+#content1-16 P {
+  text-align: left;
+  color: #000000;
+}
 #header3-y .mbr-section-title,
 #header3-y .mbr-section-subtitle {
   text-align: center;
@@ -623,30 +658,6 @@ h6,
 }
 #features3-x B {
   color: #90a878;
-}
-#msg-box5-10 P {
-  text-align: left;
-}
-#msg-box5-10 B {
-  font-size: 30px;
-}
-#features1-v .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #7e9b9f;
-}
-#features1-v .mbr-cards-col:nth-child(odd) .card-text {
-  font-size: 16px;
-}
-#features1-v .mbr-cards-col:nth-child(odd) .card-subtitle {
-  font-size: 16px;
-}
-#features1-v .mbr-cards-col:nth-child(odd) .card-title {
-  font-size: 24px;
-}
-#features1-v .mbr-cards-col:nth-child(even) .card-title {
-  font-size: 24px;
-}
-#features1-v .mbr-cards-col:nth-child(even) .card-subtitle {
-  font-size: 16px;
 }
 #social-buttons3-19 .mbr-section-title,
 #social-buttons3-19 .btn-social {

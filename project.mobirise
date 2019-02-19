@@ -40,7 +40,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 38,
+    "uniqCompNum": 44,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
@@ -246,7 +246,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -262,7 +262,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -574,7 +574,7 @@
             }
           },
           "title": "Digital Learning Day",
-          "text": "<b>Get MESI With US</b><br>Feb. 28, 2019<br>9 a.m. to 4 p.m.",
+          "text": "<b>Get MESI With US</b><br>Feb. 28, 2019<br>9 a.m. to 4 p.m.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -599,6 +599,19 @@
               "color": "#005488"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Link to our SCHED</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-17"
         },
         {
           "_params": {
@@ -643,9 +656,9 @@
               "size": 0
             }
           },
-          "title": "MESI Expert Panel",
+          "title": "Expert Panel",
           "text": "Are you curious about Maker Spaces? Have you thought about creating a maker space in your classroom, school or district? We have compiled a team of experts who will walk you through the process from theory to practice. Learn from experts around the country who are changing the field of education. Learn about hands on learning that change the lives of our children.<br><br>SDCOE moderators Jewyl Clarke &amp; Michanne Hoctor-Thompson host Laura Spencer, Josh Weisgrau, and Ed Chagala in sharing their knowledge of best practices and experience.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9:00<br>ZOOM LINK</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9 to 10:15 a.m.<br>ZOOM LINK</a>",
           "_tags": [
             "Theme"
           ],
@@ -669,7 +682,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "5",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -740,7 +753,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -757,10 +770,10 @@
           "caption3": "Eric Chagala (Ed.D. Educational Leadership) is the founding principal of the Vista Innovation &amp; Design Academy (VIDA). Eric believes that all kids need a place to matter, that schools have souls and those souls need to be nurtured, and that our actions say what we believe about kids. <br><br>Eric’s belief in Design Thinking for education is deeply rooted in his dissertation that focused on the critical resiliency of high achieving Latino youth. This research solidified the <b>knowledge</b> (not just belief) that schools have the power to either defeat or to perpetuate the status-quo of a neighborhood.<br><br>Eric has spoken across North America in both workshops &amp; Keynotes about Design Thinking, and to talk what it takes for school leaders to build a true school culture that will be ripe for innovation. In addition, Eric is on the Faculty for the Graduate School at High Tech High, he is an Apprentice Coach with Stanford University's \"School Re-Tool\" work at the famed <a href=\"https://dschool.stanford.edu/\" target=\"_blank\" class=\"text-primary\">d.School </a>(Institute of Design), and is a Deeper Learning Fellow with DLLF. In addition, Eric is the Co-Founder of <a href=\"https://designcampsd.weebly.com/\" target=\"_blank\" class=\"text-primary\">#DesignCamp for Education</a>.",
           "title4": "Dan Hendricks",
           "subtitle4": "@OSMakerLabs<div><a href=\"https://www.opensourcemakerlabs.com/page/our-staff\" target=\"_blank\" class=\"text-primary\"><b>osml.com</b></a></div>",
-          "caption4": "Dan Hendricks is the founder and President of Open Source Maker Labs. Dan has over 30 years of experience in the Navy, as a Nuclear Engineering Officer, Surface Warfare Officer and Engineering Duty Officer, retiring at the rank of Captain (O-6). He has a bachelor of science degree in mathematics from the Naval Academy, and a master of science degree in computer science from the Naval Postgraduate School. Since leaving active duty, Dan has worked in both the private and public sector in roles of increasing responsibility in program management and budgeting, network architecture, systems engineering, and computer security. Dan is a registered Professional Engineer (Electrical) in the state of Washington, and is a Certified Information Systems Security Professional (CISSP). He is a member of<a href=\"https://www.ieee.org/\" target=\"_blank\" class=\"text-primary\"> IEEE</a>&nbsp;(, <a href=\"https://www.computer.org/\" target=\"_blank\" class=\"text-primary\">IEEE Computer Society</a>, <a href=\"https://www.comsoc.org/\" target=\"_blank\" class=\"text-primary\">IEEE Communications Society</a>, and a founding member of the <a href=\"https://www.sandiegotechhub.com\" target=\"_blank\" class=\"text-primary\">San Diego Tech Hub</a>.<br>",
+          "caption4": "<br>",
           "title5": "Grant Lichtman",
           "subtitle5": "@GrantLictman<br><a href=\"http://www.grantlictman.com\" class=\"text-primary\"><b>grantlichtman.com</b></a>",
-          "caption5": "What can you and your school team do to help fundamentally transform our outdated system of education? How are other schools and districts, facing the same obstacles as you, making this shift to a more student-centric, engaging, deeper learning experience? Join internationally-recognized thought leader and author Grant Lichtman as we consider and discuss seven \"levers\" of school transformation that WE can all press, as described in his latest book, <i><a href=\"http://www.grantlichtman.com/retailers/\" target=\"_blank\" class=\"text-primary\">Moving the Rock</a>.</i><br><br>Grant Lichtman is an internationally-recognized thought leader on the transformation of K-12 education. He works with school teams to develop a comfort and capacity for change in a rapidly changing world. For almost 15 years, Grant was a trustee and senior administrator at one of the largest independent schools in the United States. Since 2012, Grant has visited more than 125 schools and districts, published three books, written numerous articles, and worked with thousands of school and community stakeholders to develop unique and powerful visions and strategies for transforming education away from the Industrial Age and towards future-focused models of deeper learning.<br>",
+          "caption5": "",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
@@ -783,8 +796,182 @@
             },
             "B": {
               "color": "#90a878"
+            },
+            "P": {
+              "font-size": "14px"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "36",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/osml-1400x970.jpg",
+              "link": "https://www.opensourcemakerlabs.com/page/homepage",
+              "alt": "Compiled image of Dan Hendricks and the maker space",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Special Session",
+          "text": "<b>Explore a Real Life Business - OSML in Vista&nbsp;with Owner Dan Henricks</b><b><br></b><br>Open Source Maker Labs provides resources for its members by making equipment, open source technology, knowledge, and projects more accessible.<br><br>@OSMakerLabs<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            "B": {
+              "font-size": "30px",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box5-15"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem;\">Dan Hendricks is the founder and President of Open Source Maker Labs. Dan has over 30 years of experience in the Navy, as a Nuclear Engineering Officer, Surface Warfare Officer and Engineering Duty Officer, retiring at the rank of Captain (O-6). He has a bachelor of science degree in mathematics from the Naval Academy, and a master of science degree in computer science from the Naval Postgraduate School. Since leaving active duty, Dan has worked in both the private and public sector in roles of increasing responsibility in program management and budgeting, network architecture, systems engineering, and computer security. Dan is a registered Professional Engineer (Electrical) in the state of Washington, and is a Certified Information Systems Security Professional (CISSP). He is a member of IEEE, IEEE Computer Society, IEEE Communications Society, and a founding member of the San Diego Tech Hub.&nbsp;</span><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-12",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "40",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/grantlictman-400x400.jpg",
+              "link": "https://www.opensourcemakerlabs.com/page/homepage",
+              "alt": "Compiled image of Dan Hendricks and the maker space",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Special Session",
+          "text": "<b>Explore a Real Life Business - OSML in Vista&nbsp;with Owner Dan Henricks</b><b><br></b><br>What can you and your school team do to help fundamentally transform our outdated system of education? How are other schools and districts, facing the same obstacles as you, making this shift to a more student-centric, engaging, deeper learning experience? Join internationally-recognized thought leader and author Grant Lichtman as we consider and discuss seven \"levers\" of school transformation that WE can all press, as described in his latest book, Moving the Rock.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-10",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            "B": {
+              "font-size": "30px",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><br></p><p>Grant Lichtman is an internationally-recognized thought leader on the transformation of K-12 education. He works with school teams to develop a comfort and capacity for change in a rapidly changing world. For almost 15 years, Grant was a trustee and senior administrator at one of the largest independent schools in the United States. Since 2012, Grant has visited more than 125 schools and districts, published three books, written numerous articles, and worked with thousands of school and community stakeholders to develop unique and powerful visions and strategies for transforming education away from the Industrial Age and towards future-focused models of deeper learning.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-16"
         },
         {
           "_styles": {
@@ -796,13 +983,13 @@
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#2e2e2e"
           },
-          "title": "SESSIONS: In the field with...",
-          "meta": "By John Smith posted July 20, 2016",
+          "title": "In the field with...",
+          "meta": "<b>30 minute sessions</b>",
           "_tags": [
             "Theme"
           ],
@@ -817,7 +1004,7 @@
             "ShowTexts": true,
             "showButtons": true,
             "columnsColor": "#2e2e2e",
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "6",
             "bgImageRadio": false,
@@ -835,7 +1022,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-9.04.49-am-600x403.png",
+              "src": "@PROJECT_PATH@/assets/images/book-2869-640-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -846,31 +1033,40 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-11.54.38-am-600x409.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "rolled paper art",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/creativity-819371-640-600x401.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "light bulb drawn on paper",
+              "title": ""
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/staircase-600468-640-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/creativity-819371-640-600x401.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mosaic-200864-640-600x397.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -881,36 +1077,39 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "close up of workshop desk",
+              "title": ""
             }
           },
-          "title1": "Overview of \"Making\"",
-          "subtitle1": "",
-          "caption1": "<i><br>Moderators</i><br><b>Jewyl Clarke<br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Josh Weisgrau</b><br><br>",
-          "title2": "Highlights from Del Mar Unified School District",
-          "subtitle2": "One example of a makerspace in a library setting",
-          "caption2": "<i><br>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Laura Spencer</b><br>",
-          "title3": "TBA",
-          "subtitle3": "coming soon<br>in the field with...",
-          "caption3": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Sarah Trueblood</b>",
-          "title4": "TBA",
-          "subtitle4": "coming soon<br>in the field with...",
-          "caption4": "<i>Moderator</i><br><b>Jewyl Clarke</b><br><br>Guest<br><b>TBA</b>",
-          "title5": "Designing",
-          "subtitle5": "in the field with...",
+          "title1": "Highlights from DMUSD",
+          "subtitle1": "A Makerspace in a <br>Library Setting",
+          "caption1": "<i>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Laura Spencer</b><br>",
+          "title2": "Empathy Driven Design",
+          "subtitle2": "Purposeful Making in Elementary Classrooms",
+          "caption2": "<i>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Sarah Trueblood&nbsp;</b><br>",
+          "title3": "Makerspace Virtual Tour &nbsp;",
+          "subtitle3": "Double Peak K-8<br>San Marcos",
+          "caption3": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Christine Dixon</b>",
+          "title4": "Reverse Engineering",
+          "subtitle4": "Take it Apart, Learn How it Works, Make it Better",
+          "caption4": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br>Guest<br><b>Heidi Baynes</b>",
+          "title5": "Designing<br>&nbsp;<br>",
+          "subtitle5": "Join Us!<br><br>",
           "caption5": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Sonal Patel</b>",
-          "title6": "Reverse Engineering",
-          "subtitle6": "in the field with...",
-          "caption6": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Heidi Baynes</b>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/cbd3250cc585075b4ac87b605f06faf5\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9:20-10:15<br>ZOOM LINK</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/dc69c38f0e990098dc2040ba88984b7b \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10:30<br>ZOOM LINK</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/5b2d1fc194dc3c067510d14dfea9e911\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11:00<br>ZOOM LINK</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/514c40df5e631d98c5b9141539e44ee6 \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11:30<br>ZOOM LINK</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">12:00<br>ZOOM LINK<br></a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">12:30<br>ZOOM LINK</a>",
+          "title6": "STEAM Maker Workshop",
+          "subtitle6": "VR Field Trips<br><br>",
+          "caption6": "<i>Moderator</i><br><b>Jewyl Clarke</b><br><b><br></b><br><i>Guest</i><br><b>STEAM Maker Workshop</b>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/cbd3250cc585075b4ac87b605f06faf5\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10:30<br>ZOOM LINK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/dc69c38f0e990098dc2040ba88984b7b \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11:00<br>ZOOM LINK</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/e0b236881e870d9c34538d7d4481ef37\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:00<br>ZOOM LINK</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/c445703e45413785cde7dc3c8da9331e \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:30<br>ZOOM LINK</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/55582ce011247a6dcde7dc3c8d\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:00<br>ZOOM LINK<br></a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/d69e5f92aeaa11c934538d7d4481ef37 \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:30<br>ZOOM LINK</a>",
           "_tags": [
             "Theme"
           ],
@@ -946,7 +1145,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "4",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -973,74 +1172,80 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/placeholder-200x200.png",
+              "src": "@PROJECT_PATH@/assets/images/christine-dixon-200x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
-              "alt": "Placeholder image",
-              "title": ""
+              "link": "https://spark.adobe.com/page/WXVMt63itBLLD/",
+              "alt": "Christine Dixon image from Twitter",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sonalpatel-200x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Ed Chagala image from Twitter",
-              "title": ""
-            }
-          },
-          "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/heidibaynes-200x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Dan Hendricks image from OSML website",
+              "alt": "Heidi Baynes image from Twitter",
               "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sonalpatel-200x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://sonalpatel.net/",
+              "alt": "Sonal Patel image from Twitter",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/grantlictman-400x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/steammakerworkshop-200x200.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
-              "alt": "Grant Lichtman image from Twitter",
+              "link": "https://doublepeakschool.smusd.org/our_school/innovation_technology/about_mrs_dixon",
+              "alt": "Steam Maker Workshop image from Twitter",
               "title": ""
             }
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/steammakerworkshop-200x200.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "http://www.sansmf.org/",
+              "alt": "Steam Maker Workshop Logo",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "title1": "Sarah Trueblood",
           "subtitle1": "@truebloodsarah<br>",
           "caption1": "Program Manager<br>Office of School Innovations&nbsp;<br>San Diego Unified School District",
-          "title2": "TBA",
-          "subtitle2": "@TBA",
-          "caption2": "",
-          "title3": "Sonal Patel",
-          "subtitle3": "@TrPatel20",
-          "caption3": "Digital Learning Project Specialist <br>San Bernadino County Superintendent <br>of Schools",
-          "title4": "Heidi Baynes",
-          "subtitle4": "@BaynesHeidi",
-          "caption4": "Coordinator- Ed Tech<br>Riverside County Office of Education&nbsp;",
-          "title5": "Grant Lichtman",
-          "subtitle5": "@GrantLictman<br><a href=\"http://www.grantlictman.com\" class=\"text-primary\"><b>grantlichtman.com</b></a>",
-          "caption5": "",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "title2": "Christine Dixon",
+          "subtitle2": "@christinekdixon",
+          "caption2": "TK-8 Innovation Coordinator<br>Double Peak K8 School<br>San Marcos Unified School District",
+          "title3": "Heidi Baynes",
+          "subtitle3": "@BaynesHeidi",
+          "caption3": "Coordinator- Ed Tech&nbsp;<br>Riverside County Office of Education",
+          "title4": "Sonal Patel",
+          "subtitle4": "@TrPatel20",
+          "caption4": "Digital Learning Project Specialist<br>San Bernadino County<br>Superintendent of Schools",
+          "title5": "STEAM Maker Workshop",
+          "subtitle5": "@STEAM_Maker<br>",
+          "caption5": "STEAM Maker - Science, Technology, Engineering, and Math",
+          "title6": "STEAM Maker Workshop",
+          "subtitle6": "@STEAM_Maker",
+          "caption6": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"http://joshweisgrau.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
@@ -1062,194 +1267,6 @@
             }
           },
           "_anchor": "features3-x"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/osml-1400x970.jpg",
-              "link": "",
-              "alt": "Compiled image of Dan Hendricks and the maker space",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "OSML in Vista&nbsp;",
-          "text": "<b>Explore a Real Life Business - <br>with Owner Dan Henricks</b><b><br></b><br>Open Source Maker Labs provides resources for its members by making equipment, open source technology, knowledge, and projects more accessible.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-10",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "B": {
-              "font-size": "30px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "columnsColor": "#7e9b9f",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": "5",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-9.04.49-am-600x403.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "scissors organized on wall hooks",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/creativity-819371-640-600x401.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "notepaper with ideas written and crumpled paper on top",
-              "title": ""
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Overview of \"Making\"",
-          "subtitle1": "How to start and sustain the maker mindet in your school or classroom",
-          "caption1": "<i><br>Moderators</i><br><b>Jewyl Clarke<br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Josh Weisgrau</b><br><br>",
-          "title2": "Highlights from Del Mar Unified School District",
-          "subtitle2": "One example of a makerspace in a library setting",
-          "caption2": "<i><br>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Laura Spencer</b><br>",
-          "title3": "TBA",
-          "subtitle3": "coming soon<br>in the field with...",
-          "caption3": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Sarah Trueblood</b>",
-          "title4": "TBA",
-          "subtitle4": "coming soon<br>in the field with...",
-          "caption4": "<i>Moderator</i><br><b>Jewyl Clarke</b><br><br>Guest<br><b>TBA</b>",
-          "title5": "Designing",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>TBA</b>",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/cbd3250cc585075b4ac87b605f06faf5\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9:20-10:15<br>ZOOM LINK</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/dc69c38f0e990098dc2040ba88984b7b \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10:30<br>ZOOM LINK</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/5b2d1fc194dc3c067510d14dfea9e911\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11:00<br>ZOOM LINK</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/514c40df5e631d98c5b9141539e44ee6 \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11:30<br>ZOOM LINK</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">12:00<br>ZOOM LINK<br></a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#7e9b9f"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "font-size": "16px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "font-size": "16px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "font-size": "24px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "font-size": "24px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "font-size": "16px"
-            }
-          },
-          "_anchor": "features1-v"
         },
         {
           "_inherit": "social-buttons1",
