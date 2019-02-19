@@ -577,15 +577,11 @@ h6,
   text-align: center;
   color: #005488;
 }
-#header3-16 .mbr-section-title,
-#header3-16 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-16 .mbr-section-subtitle {
+#msg-box5-w P {
   color: #ffffff;
 }
-#header3-16 .mbr-section-title {
-  font-size: 36px;
+#msg-box5-w H3 {
+  color: #ffffff;
 }
 #features3-10 H5 {
   color: #2969b0;
@@ -598,6 +594,9 @@ h6,
 #header3-y .mbr-section-title,
 #header3-y .mbr-section-subtitle {
   text-align: center;
+}
+#header3-y .mbr-section-title {
+  color: #ffffff;
 }
 #features1-x .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
@@ -616,6 +615,20 @@ h6,
 }
 #features1-x .mbr-cards-col:nth-child(even) .card-subtitle {
   font-size: 16px;
+}
+#features3-x H5 {
+  color: #2969b0;
+  text-align: center;
+  font-size: 16px;
+}
+#features3-x B {
+  color: #90a878;
+}
+#msg-box5-10 P {
+  text-align: left;
+}
+#msg-box5-10 B {
+  font-size: 30px;
 }
 #features1-v .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #7e9b9f;
