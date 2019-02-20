@@ -604,9 +604,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#cccccc"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Link to our SCHED</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">EVENT SCHED.COM</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform\" data-toolbar=\"-mbrBtnMove\">INTEREST FORM</a>",
           "_tags": [
             "Theme"
           ],
@@ -619,9 +619,9 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "50",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "imageSize": "33",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -656,9 +656,9 @@
               "size": 0
             }
           },
-          "title": "Expert Panel",
+          "title": "Opening Panel Discussion",
           "text": "Are you curious about Maker Spaces? Have you thought about creating a maker space in your classroom, school or district? We have compiled a team of experts who will walk you through the process from theory to practice. Learn from experts around the country who are changing the field of education. Learn about hands on learning that change the lives of our children.<br><br>SDCOE moderators Jewyl Clarke &amp; Michanne Hoctor-Thompson host Laura Spencer, Josh Weisgrau, and Ed Chagala in sharing their knowledge of best practices and experience.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9 to 10:15 a.m.<br>ZOOM LINK</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9:00-10:15<br>ZOOM LINK<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -764,10 +764,10 @@
           "caption1": "Laura is the Executive Director of Innovation and Design for Del Mar Union School District, and a former Director of Educational Technology. An award-winning educator and administrator, Laura is committee to ensuring that students engage in authentic, meaningful learning experiences to prepare them for their future. Laura is committed to providing an extraordinary school experience for all students. Through coaching teachers and site administrators on how to infuse Design Thinking, technology, and real-world connections into core instruction, students experience personalized learning that develops agency and the skills that matter most. Laura has been honored as the Top Tech Exec of San Diego County from among 600 teach leaders, as well as the Classroom of the Future Foundation Innovative Educator of the Year. She also serves as President of <a href=\"http://sdcue.org\" target=\"_blank\" class=\"text-primary\">San Diego Computer Using Educators (SDCUE)</a> and is a Founding Board Member of <a href=\"http://adinaeducation.net/EquityEDU/\" target=\"_blank\" class=\"text-primary\">EquityEDU</a>.<br>",
           "title2": "Josh Weisgrau",
           "subtitle2": "@jweisgrau<div><a href=\"http://www.joshweisgrau.com/\" target=\"_blank\" class=\"text-primary\"><b>joshweisgrau.com</b></a></div>",
-          "caption2": "Josh is the Director of Learning Experience Design at <a href=\"https://digitalpromise.org/\" target=\"_blank\" class=\"text-primary\">Digital Promise</a>, leading a portfolio of projects working with schools and educators to design learning experiences that will empower the next generation of creators and change-makers. <br>Prior to joining Digital Promise, Josh helped develop the makerspace and maker learning program at Friends’ Central School in Wynnewood, PA, and has taught Photography, Information and Digital Literacy, Computer Science, Shop, and STEAM. He is a co-founder of Rough Cut Schools, consulting and advocating for media literacy and production in schools around the world. Before that, he worked in theaters and schools teaching kids about technical theater and design. Josh has a B.A. in theater from Wesleyan University and a Masters of Liberal Arts with a focus in media and cultural studies from Temple University.",
+          "caption2": "Josh is the Director of Learning Experience Design at <a href=\"https://digitalpromise.org/\" target=\"_blank\" class=\"text-primary\">Digital Promise</a>, leading a portfolio of projects working with schools and educators to design learning experiences that will empower the next generation of creators and change-makers. <br>Prior to joining Digital Promise, Josh helped develop the makerspace and maker learning program at Friends’ Central School in Wynnewood, PA, and has taught Photography, Information and Digital Literacy, Computer Science, Shop, and STEAM. He is a co-founder of Rough Cut Schools, consulting and advocating for media literacy and production in schools around the world. Before that, he worked in theaters and schools teaching kids about technical theater and design. <br><br>Josh has a B.A. in theater from Wesleyan University and a Masters of Liberal Arts with a focus in media and cultural studies from Temple University.",
           "title3": "Eric Chagala, Ed.D.",
           "subtitle3": "@drchagala<div><a href=\"https://ericchagala.weebly.com/\" target=\"_blank\" class=\"text-primary\"><b>ericchagala.com</b></a></div>",
-          "caption3": "Eric Chagala (Ed.D. Educational Leadership) is the founding principal of the Vista Innovation &amp; Design Academy (VIDA). Eric believes that all kids need a place to matter, that schools have souls and those souls need to be nurtured, and that our actions say what we believe about kids. <br><br>Eric’s belief in Design Thinking for education is deeply rooted in his dissertation that focused on the critical resiliency of high achieving Latino youth. This research solidified the <b>knowledge</b> (not just belief) that schools have the power to either defeat or to perpetuate the status-quo of a neighborhood.<br><br>Eric has spoken across North America in both workshops &amp; Keynotes about Design Thinking, and to talk what it takes for school leaders to build a true school culture that will be ripe for innovation. In addition, Eric is on the Faculty for the Graduate School at High Tech High, he is an Apprentice Coach with Stanford University's \"School Re-Tool\" work at the famed <a href=\"https://dschool.stanford.edu/\" target=\"_blank\" class=\"text-primary\">d.School </a>(Institute of Design), and is a Deeper Learning Fellow with DLLF. In addition, Eric is the Co-Founder of <a href=\"https://designcampsd.weebly.com/\" target=\"_blank\" class=\"text-primary\">#DesignCamp for Education</a>.",
+          "caption3": "Eric Chagala (Ed.D. Educational Leadership) is the founding principal of the Vista Innovation &amp; Design Academy (VIDA). Eric believes that all kids need a place to matter, that schools have souls and those souls need to be nurtured, and that our actions say what we believe about kids. <br><br>Eric has spoken across North America in both workshops &amp; Keynotes about Design Thinking, and to talk what it takes for school leaders to build a true school culture that will be ripe for innovation. In addition, Eric is on the Faculty for the Graduate School at High Tech High, he is an Apprentice Coach with Stanford University's \"School Re-Tool\" work at the famed <a href=\"https://dschool.stanford.edu/\" target=\"_blank\" class=\"text-primary\">d.School </a>(Institute of Design), and is a Deeper Learning Fellow with DLLF. In addition, Eric is the Co-Founder of <a href=\"https://designcampsd.weebly.com/\" target=\"_blank\" class=\"text-primary\">#DesignCamp for Education</a>.",
           "title4": "Dan Hendricks",
           "subtitle4": "@OSMakerLabs<div><a href=\"https://www.opensourcemakerlabs.com/page/our-staff\" target=\"_blank\" class=\"text-primary\"><b>osml.com</b></a></div>",
           "caption4": "<br>",
@@ -808,9 +808,9 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "36",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "imageSize": "33",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -847,8 +847,8 @@
             }
           },
           "title": "Special Session",
-          "text": "<b>Explore a Real Life Business - OSML in Vista&nbsp;with Owner Dan Henricks</b><b><br></b><br>Open Source Maker Labs provides resources for its members by making equipment, open source technology, knowledge, and projects more accessible.<br><br>@OSMakerLabs<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "text": "<b>Explore a Real Life Business - OSML in Vista&nbsp;with Owner Dan Henricks</b><b><br></b><br>Open Source Maker Labs provides resources for its members by making equipment, open source technology, knowledge, and projects more accessible. SDCOE moderators Erin English and Pamela Rabin lead a discussion on maker labs, entreprenurial opportunities, and the educational ramifications.<br><br>@OSMakerLabs<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://sdcoe.zoom.us/meeting/register/0489a09459b9c5107510d14dfea9e911\" data-toolbar=\"-mbrBtnMove\">1:00-2:00<br>ZOOM LINK<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -894,9 +894,9 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "40",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "imageSize": "32",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -914,9 +914,9 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/grantlictman-400x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/grantlictman-376x377.jpg",
               "link": "https://www.opensourcemakerlabs.com/page/homepage",
-              "alt": "Compiled image of Dan Hendricks and the maker space",
+              "alt": "Grant Lichtman photo from twitter",
               "title": ""
             },
             "video": {
@@ -931,9 +931,9 @@
               "size": 0
             }
           },
-          "title": "Special Session",
-          "text": "<b>Explore a Real Life Business - OSML in Vista&nbsp;with Owner Dan Henricks</b><b><br></b><br>What can you and your school team do to help fundamentally transform our outdated system of education? How are other schools and districts, facing the same obstacles as you, making this shift to a more student-centric, engaging, deeper learning experience? Join internationally-recognized thought leader and author Grant Lichtman as we consider and discuss seven \"levers\" of school transformation that WE can all press, as described in his latest book, Moving the Rock.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "title": "Final Session",
+          "text": "<b>Moving the Rock: &nbsp; Author Grant Lictman</b><b><br></b><br>What can you and your school team do to help fundamentally transform our outdated system of education? How are other schools and districts, facing the same obstacles as you, making this shift to a more student-centric, engaging, deeper learning experience? Join internationally-recognized thought leader and author Grant Lichtman as we consider and discuss seven \"levers\" of school transformation that WE can all press, as described in his latest book, Moving the Rock.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://sdcoe.zoom.us/meeting/register/e26452ec759a37464ac87b605f06faf5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3:00-4:00<br>ZOOM LINK<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -960,7 +960,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p><br></p><p>Grant Lichtman is an internationally-recognized thought leader on the transformation of K-12 education. He works with school teams to develop a comfort and capacity for change in a rapidly changing world. For almost 15 years, Grant was a trustee and senior administrator at one of the largest independent schools in the United States. Since 2012, Grant has visited more than 125 schools and districts, published three books, written numerous articles, and worked with thousands of school and community stakeholders to develop unique and powerful visions and strategies for transforming education away from the Industrial Age and towards future-focused models of deeper learning.</p>",
+          "text": "<p><span style=\"font-size: 1.07rem;\">Grant Lichtman is an internationally-recognized thought leader on the transformation of K-12 education. He works with school teams to develop a comfort and capacity for change in a rapidly changing world. For almost 15 years, Grant was a trustee and senior administrator at one of the largest independent schools in the United States. Since 2012, Grant has visited more than 125 schools and districts, published three books, written numerous articles, and worked with thousands of school and community stakeholders to develop unique and powerful visions and strategies for transforming education away from the Industrial Age and towards future-focused models of deeper learning.</span><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1086,9 +1086,9 @@
               "title": ""
             }
           },
-          "title1": "Highlights from DMUSD",
-          "subtitle1": "A Makerspace in a <br>Library Setting",
-          "caption1": "<i>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Laura Spencer</b><br>",
+          "title1": "TBD",
+          "subtitle1": "coming soon",
+          "caption1": "<i>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>TBD</b><br>",
           "title2": "Empathy Driven Design",
           "subtitle2": "Purposeful Making in Elementary Classrooms",
           "caption2": "<i>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Sarah Trueblood&nbsp;</b><br>",
