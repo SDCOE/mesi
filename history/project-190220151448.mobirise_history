@@ -23,7 +23,9 @@
       "additionalSetColors": [
         "#282828",
         "#00aeef",
-        "#005488"
+        "#005488",
+        "#dae8f1",
+        "#2e2e2e"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -38,10 +40,14 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 31,
+    "uniqCompNum": 44,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/mesi",
+    "gitHubName": "",
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
@@ -1031,7 +1037,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-11.54.38-am-600x409.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-19%20at%2011.54.38%20am-600x409.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1084,25 +1090,25 @@
               "title": ""
             }
           },
-          "title1": "Innovation Highlights",
-          "subtitle1": "CVESD&nbsp;<br><br><br>",
-          "caption1": "<i>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Michael Bruder</b>",
+          "title1": "TBD",
+          "subtitle1": "coming soon",
+          "caption1": "<i>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>TBD</b><br>",
           "title2": "Empathy Driven Design",
           "subtitle2": "Purposeful Making in Elementary Classrooms",
           "caption2": "<i>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Sarah Trueblood&nbsp;</b><br>",
           "title3": "Makerspace Virtual Tour &nbsp;",
-          "subtitle3": "Double Peak K-8<br>San Marcos<br><br>",
+          "subtitle3": "Double Peak K-8<br>San Marcos",
           "caption3": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Christine Dixon</b>",
           "title4": "Reverse Engineering",
           "subtitle4": "Take it Apart, Learn How it Works, Make it Better",
           "caption4": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br>Guest<br><b>Heidi Baynes</b>",
           "title5": "Designing<br>&nbsp;<br>",
-          "subtitle5": "Join Us!<br><br><br>",
+          "subtitle5": "Join Us!<br><br>",
           "caption5": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Sonal Patel</b>",
           "title6": "STEAM Maker Workshop",
           "subtitle6": "VR Field Trips<br><br>",
           "caption6": "<i>Moderator</i><br><b>Jewyl Clarke</b><br><b><br></b><br><i>Guest</i><br><b>STEAM Maker Workshop</b>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/dc69c38f0e990098dc2040ba88984b7b \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10:30<br>ZOOM LINK</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/cbd3250cc585075b4ac87b605f06faf5\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10:30<br>ZOOM LINK</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/dc69c38f0e990098dc2040ba88984b7b \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11:00<br>ZOOM LINK</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/e0b236881e870d9c34538d7d4481ef37\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:00<br>ZOOM LINK</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/c445703e45413785cde7dc3c8da9331e \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:30<br>ZOOM LINK</a>",
@@ -1143,7 +1149,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "6",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1159,56 +1165,58 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/michaelbruder-200x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sarahtrueblood-200x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Michael Bruder image from Twitter",
+              "alt": "Sarah Trueblood image from Twitter",
               "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sarahtrueblood-200x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/christine%20dixon-200x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "https://spark.adobe.com/page/WXVMt63itBLLD/",
-              "alt": "Sarah Trueblood image from Twitter",
-              "title": ""
+              "alt": "Christine Dixon image from Twitter",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/christine-dixon-200x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Christine Dixon image from Twitter",
-              "title": ""
-            }
-          },
-          "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/heidibaynes-200x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "http://sonalpatel.net/",
+              "link": "",
               "alt": "Heidi Baynes image from Twitter",
               "title": ""
             }
           },
-          "media5": {
+          "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/sonalpatel-200x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://doublepeakschool.smusd.org/our_school/innovation_technology/about_mrs_dixon",
+              "link": "http://sonalpatel.net/",
               "alt": "Sonal Patel image from Twitter",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/steammakerworkshop-200x200.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://doublepeakschool.smusd.org/our_school/innovation_technology/about_mrs_dixon",
+              "alt": "Steam Maker Workshop image from Twitter",
               "title": ""
             }
           },
@@ -1224,24 +1232,24 @@
               "linkInNewWindow": true
             }
           },
-          "title1": "Michael Bruder",
-          "subtitle1": "@Mr_BMichael",
+          "title1": "Sarah Trueblood",
+          "subtitle1": "@truebloodsarah<br>",
           "caption1": "Program Manager<br>Office of School Innovations&nbsp;<br>San Diego Unified School District",
-          "title2": "Sarah Trueblood",
-          "subtitle2": "@truebloodsarah",
+          "title2": "Christine Dixon",
+          "subtitle2": "@christinekdixon",
           "caption2": "TK-8 Innovation Coordinator<br>Double Peak K8 School<br>San Marcos Unified School District",
-          "title3": "Christine Dixon",
-          "subtitle3": "@christinekdixon",
-          "caption3": "",
-          "title4": "Heidi Baynes",
-          "subtitle4": "@baynesheidi",
-          "caption4": "Coordinator- Ed Tech <br>Riverside County Office of Education",
-          "title5": "Sonal Patel",
-          "subtitle5": "@TrPatel20<br>",
-          "caption5": "Digital Learning Project Specialist<br>San Bernadino County<br>Superintendent of Schools",
+          "title3": "Heidi Baynes",
+          "subtitle3": "@BaynesHeidi",
+          "caption3": "Coordinator- Ed Tech&nbsp;<br>Riverside County Office of Education",
+          "title4": "Sonal Patel",
+          "subtitle4": "@TrPatel20",
+          "caption4": "Digital Learning Project Specialist<br>San Bernadino County<br>Superintendent of Schools",
+          "title5": "STEAM Maker Workshop",
+          "subtitle5": "@STEAM_Maker<br>",
+          "caption5": "STEAM Maker - Science, Technology, Engineering, and Math",
           "title6": "STEAM Maker Workshop",
           "subtitle6": "@STEAM_Maker",
-          "caption6": "STEAM Maker - Science, Technology, Engineering, and Math",
+          "caption6": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"http://joshweisgrau.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
