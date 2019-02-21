@@ -41,7 +41,11 @@
     "uniqCompNum": 31,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/mesi",
+    "gitHubName": "",
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
@@ -233,7 +237,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hands-1-400x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-7-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -271,10 +275,10 @@
           "caption1": "Want to get MESI? - Join us virtually On Digital Learning Day to learn from experts discussing creative ways to set-up and sustain learning spaces where students make, invent, and learn about entrepreneurship and STEAM.<br><br>This is a free, virtual conference with drop-in sessions throughout the day. Sign in from any computer, ask questions or just follow along.",
           "title2": "MESI Symposium - Coming in June<div>\"A MESI Day of Learning and Discussion\"&nbsp;</div>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "This will be a one-day experience for educators featuring:<br>Computational Thinking -creating order out of complexity<br> Design Thinking - empathy with humanity<br>Critical Thinking -deeper learning through experience<br><br><br><br><br>",
+          "caption2": "This will be a one-day experience for educators featuring:<br>Computational Thinking -creating order out of complexity<br> Design Thinking - empathy with humanity<br>Critical Thinking -deeper learning through experience<br><br><br>",
           "title3": "MESI Cohorts - Coming soon<br>\"A MESI Group of Learners with Common Goals\"",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "\"The most successful organizations in the world are the ones who work together, play together, and get messy together.\" <br><br>-Jeanne Malati<br><br><br><br>",
+          "caption3": "\"The most successful organizations in the world are the ones who work together, play together, and get messy together.\" <br><br>-Jeanne Malati<br><br><br><br><br>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -1031,7 +1035,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-11.54.38-am-600x409.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-19%20at%2011.54.38%20am-600x409.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1181,7 +1185,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/christine-dixon-200x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/christine%20dixon-200x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
