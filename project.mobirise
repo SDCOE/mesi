@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MESI | San Diego County Office of Education - Innovation | #innovateSD",
-    "currentPage": "mesiwithus.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -284,7 +284,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"mesiwithus.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">DIGITAL LEARNING DAY&nbsp;<br>Day Subpage<br></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"mesiwithus.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">ONLINE SCHEDULE<br>Digital Learning Day Event<br></a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATION COMING<br>Click hereto join our interest list<br></a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOIN US SOON<br>Click here to join our interest list<br></a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -930,7 +930,7 @@
             }
           },
           "title": "Final Session",
-          "text": "<b>Moving the Rock: &nbsp; Author Grant Lictman</b><b><br></b><br>What can you and your school team do to help fundamentally transform our outdated system of education? How are other schools and districts, facing the same obstacles as you, making this shift to a more student-centric, engaging, deeper learning experience? Join internationally-recognized thought leader and author Grant Lichtman as we consider and discuss seven \"levers\" of school transformation that WE can all press, as described in his latest book, Moving the Rock.<br>",
+          "text": "<b>Moving the Rock: &nbsp; Author Grant Lictman</b><b><br></b><br>What can you and your school team do to help fundamentally transform our outdated system of education? How are other schools and districts, facing the same obstacles as you, making this shift to a more student-centric, engaging, deeper learning experience? Join SDCOE moderators Pamela Rabin and Erin English as we host a discussion with internationally-recognized thought leader and author Grant Lichtman where we consider and discuss seven \"levers\" of school transformation that WE can all press, as described in his latest book, Moving the Rock.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://sdcoe.zoom.us/meeting/register/e26452ec759a37464ac87b605f06faf5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3:00-4:00<br>ZOOM LINK<br></a>",
           "_tags": [
             "Theme"
