@@ -987,7 +987,7 @@
             "bgColor": "#2e2e2e"
           },
           "title": "In the field with...",
-          "meta": "<b>30 minute sessions</b>",
+          "meta": "<b>30 minute sessions (lunch 11:00-11:30)</b>",
           "_tags": [
             "Theme"
           ],
@@ -1103,10 +1103,10 @@
           "subtitle6": "VR Field Trips<br><br>",
           "caption6": "<i>Moderator</i><br><b>Jewyl Clarke</b><br><b><br></b><br><i>Guest</i><br><b>STEAM Maker Workshop</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/dc69c38f0e990098dc2040ba88984b7b \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10:30<br>ZOOM LINK</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/dc69c38f0e990098dc2040ba88984b7b \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11:00<br>ZOOM LINK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/514c40df5e631d98c5b9141539e44ee6 \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11:30<br>ZOOM LINK</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/e0b236881e870d9c34538d7d4481ef37\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:00<br>ZOOM LINK</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/c445703e45413785cde7dc3c8da9331e \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:30<br>ZOOM LINK</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/55582ce011247a6dcde7dc3c8d\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:00<br>ZOOM LINK<br></a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/55582ce011247a6dcde7dc3c8da9331e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:00<br>ZOOM LINK<br></a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/d69e5f92aeaa11c934538d7d4481ef37 \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:30<br>ZOOM LINK</a>",
           "_tags": [
             "Theme"
