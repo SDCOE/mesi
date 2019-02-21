@@ -482,6 +482,13 @@ h6,
 #header5-5 .mbr-section-lead SPAN {
   font-size: 30px;
 }
+#header3-v .mbr-section-title,
+#header3-v .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-v .mbr-section-title {
+  color: #ffffff;
+}
 #features1-j .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #005488;
 }

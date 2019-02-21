@@ -38,7 +38,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
@@ -184,6 +184,29 @@
           ],
           "_name": "header5",
           "_anchor": "header5-5"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28324e"
+          },
+          "title": "Upcoming Events &amp; Collaborative Opportunities",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-v"
         },
         {
           "_params": {
