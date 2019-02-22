@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MESI | San Diego County Office of Education - Innovation | #innovateSD",
-    "currentPage": "mesiwithus.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -41,7 +41,11 @@
     "uniqCompNum": 32,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/mesi",
+    "gitHubName": "",
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
@@ -1054,7 +1058,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-11.54.38-am-600x409.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-19%20at%2011.54.38%20am-600x409.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1127,9 +1131,9 @@
           "caption6": "<i>Moderator</i><br><b>Jewyl Clarke</b><br><b><br></b><br><i>Guest</i><br><b>STEAM Maker Workshop</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/dc69c38f0e990098dc2040ba88984b7b \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10:30<br>ZOOM LINK</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/514c40df5e631d98c5b9141539e44ee6 \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11:30<br>ZOOM LINK</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/55582ce011247a6dcde7dc3c8da9331e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:00<br>ZOOM LINK</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/e0b236881e870d9c34538d7d4481ef37\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:00<br>ZOOM LINK</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/c445703e45413785cde7dc3c8da9331e \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:30<br>ZOOM LINK</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/e0b236881e870d9c34538d7d4481ef37\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:00<br>ZOOM LINK<br></a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/55582ce011247a6dcde7dc3c8da9331e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:00<br>ZOOM LINK<br></a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/d69e5f92aeaa11c934538d7d4481ef37 \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:30<br>ZOOM LINK</a>",
           "_tags": [
             "Theme"
@@ -1204,7 +1208,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/christine-dixon-200x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/christine%20dixon-200x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
