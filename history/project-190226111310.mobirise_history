@@ -38,10 +38,14 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 34,
+    "uniqCompNum": 32,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/mesi",
+    "gitHubName": "",
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
@@ -576,10 +580,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-26-at-11.24.16-am-480x673.png",
+              "src": "@PROJECT_PATH@/assets/images/get-mesi-save-the-date-816x1142.jpg",
               "link": "https://drive.google.com/open?id=0B9fUIWESC5EkUDN0djIwV1ZBalU",
-              "alt": "MESI Event Flyer duplicate information listed on this website",
-              "title": ""
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -593,8 +598,8 @@
               "size": 0
             }
           },
-          "title": "Get MESI with Us",
-          "text": "<b>Digital Learning Day</b><br>Feb. 28, 2019<br>9 a.m. to 4 p.m.<br><br>Opening Panel<br>&nbsp;Special Sessions (2)<br>30 minute \"In the Field\" sessions (6)<br>Final Sesson<br><br>",
+          "title": "Digital Learning Day",
+          "text": "<b>Get MESI With US</b><br>Feb. 28, 2019<br>9 a.m. to 4 p.m.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -914,90 +919,6 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "33",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-26-at-11.48.36-am-510x283.png",
-              "link": "http://inventionconvention.org/home-page/",
-              "alt": "Invention Convention LOGO",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Special Session",
-          "text": "<b>Invention Convention: Imagination, Set Free</b><b><br></b><br>The Invention Convention program is designed to activate a FREE project-based learning curriculum through school, state and national showcase events. Join SDCOE moderator Erin English in and the folks from inventionconvention.org as they disscuss how invention education challenges the workforce of tomorrow to unlock real-world skills for identifying problems, sharing solutions and implementing ideas. <br><i>(Note there is an \"In the field\" session concurrent with this special session.)</i><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">2:00-2:30<br>ZOOM LINK<br></a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "text-align": "right",
-              "color": "#ffffff"
-            },
-            "B": {
-              "font-size": "30px",
-              "color": "#ffffff"
-            },
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box5-w"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "text": "<p>The STEMIE Coalition is an umbrella organization that “rolls up” efforts of concurrently operating K-12 youth invention and entrepreneurship programs across the U.S. and globally. The most public and unique facet of The STEMIE Coalition is the National Invention Convention.  Now part of The Henry Ford.  Read more about The STEMIE Coalition and <a href=\"https://www.thehenryford.org/\" target=\"_blank\">The Henry Ford</a>.&nbsp;</p><p><br></p><p>Invention Education builds upon the STEM (Science, Technology, Engineering and Math) education efforts already in place in our schools, and teaches students to combine those skills with creative, out-of-the-box thinking to create solutions to real-world problems.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "color": "#000000"
-            }
-          },
-          "_anchor": "content1-x"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
             "imageSize": "32",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1137,7 +1058,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-11.54.38-am-600x409.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-19%20at%2011.54.38%20am-600x409.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1287,7 +1208,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/christine-dixon-200x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/christine%20dixon-200x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

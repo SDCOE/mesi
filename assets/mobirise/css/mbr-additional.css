@@ -617,6 +617,21 @@ h6,
   text-align: left;
   color: #000000;
 }
+#msg-box5-w P {
+  text-align: right;
+  color: #ffffff;
+}
+#msg-box5-w B {
+  font-size: 30px;
+  color: #ffffff;
+}
+#msg-box5-w H3 {
+  color: #ffffff;
+}
+#content1-x P {
+  text-align: left;
+  color: #000000;
+}
 #msg-box5-10 P {
   text-align: right;
   color: #ffffff;
