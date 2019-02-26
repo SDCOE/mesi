@@ -41,7 +41,11 @@
     "uniqCompNum": 36,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/mesi",
+    "gitHubName": "",
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
@@ -576,7 +580,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-26-at-11.24.16-am-480x673.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-26%20at%2011.24.16%20am-480x673.png",
               "link": "https://drive.google.com/open?id=0B9fUIWESC5EkUDN0djIwV1ZBalU",
               "alt": "MESI Event Flyer duplicate information listed on this website",
               "title": ""
@@ -882,7 +886,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-11.54.38-am-600x409.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-19%20at%2011.54.38%20am-600x409.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1032,7 +1036,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/christine-dixon-200x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/christine%20dixon-200x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1227,7 +1231,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-26-at-11.48.36-am-510x283.png",
+              "src": "@PROJECT_PATH@assets/images/screen%20shot%202019-02-26%20at%2011.48.36%20am-510x283.png",
               "link": "http://inventionconvention.org/home-page/",
               "alt": "Invention Convention LOGO",
               "title": ""
