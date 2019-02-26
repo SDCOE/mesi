@@ -41,7 +41,11 @@
     "uniqCompNum": 36,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/mesi",
+    "gitHubName": "",
+    "gitHubPath": ""
   },
   "pages": {
     "index.html": {
@@ -576,7 +580,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-26-at-11.24.16-am-480x673.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-26%20at%2011.24.16%20am-480x673.png",
               "link": "https://drive.google.com/open?id=0B9fUIWESC5EkUDN0djIwV1ZBalU",
               "alt": "MESI Event Flyer duplicate information listed on this website",
               "title": ""
@@ -823,299 +827,6 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#2e2e2e"
-          },
-          "title": "In the field with...",
-          "meta": "<b>30 minute sessions (lunch 11:00-11:30)</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-y"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "columnsColor": "#2e2e2e",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/book-2869-640-600x399.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "scissors organized on wall hooks",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-11.54.38-am-600x409.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "rolled paper art",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/creativity-819371-640-600x401.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "light bulb drawn on paper",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/staircase-600468-640-600x398.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mosaic-200864-640-600x397.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "notepaper with ideas written and crumpled paper on top",
-              "title": ""
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "close up of workshop desk",
-              "title": ""
-            }
-          },
-          "title1": "Innovation Highlights",
-          "subtitle1": "CVESD&nbsp;<br><br>",
-          "caption1": "<i>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Michael Bruder</b>",
-          "title2": "Empathy Driven Design",
-          "subtitle2": "Purposeful Making in Elementary Classrooms<br><br>",
-          "caption2": "<i>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Sarah Trueblood&nbsp;</b><br>",
-          "title3": "Makerspace Virtual Tour &nbsp;",
-          "subtitle3": "Double Peak K-8<br>San Marcos<br><br>",
-          "caption3": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Christine Dixon</b>",
-          "title4": "Reverse Engineering",
-          "subtitle4": "Take it Apart, Learn How it Works, Make it Better<br><br>",
-          "caption4": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br>Guest<br><b>Heidi Baynes</b>",
-          "title5": "Designing for Makers<br>",
-          "subtitle5": "Highlights from Ontario-Montclair SD",
-          "caption5": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Chris Catuara</b>",
-          "title6": "STEAM Maker Workshop",
-          "subtitle6": "VR Field Trips<br><br>",
-          "caption6": "<i>Moderator</i><br><b>Jewyl Clarke</b><br><b><br></b><br><i>Guest</i><br><b>STEAM Maker Workshop</b>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/dc69c38f0e990098dc2040ba88984b7b \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10:30<br>ZOOM LINK</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/514c40df5e631d98c5b9141539e44ee6 \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11:30<br>ZOOM LINK</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/55582ce011247a6dcde7dc3c8da9331e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:00<br>ZOOM LINK</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/c445703e45413785cde7dc3c8da9331e \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:30<br>ZOOM LINK</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/e0b236881e870d9c34538d7d4481ef37\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:00<br>ZOOM LINK<br></a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/d69e5f92aeaa11c934538d7d4481ef37 \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:30<br>ZOOM LINK</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-x",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "font-size": "16px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "font-size": "16px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "font-size": "24px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "font-size": "24px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "font-size": "16px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/michaelbruder-200x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Michael Bruder image from Twitter",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sarahtrueblood-200x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://spark.adobe.com/page/WXVMt63itBLLD/",
-              "alt": "Sarah Trueblood image from Twitter",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/christine-dixon-200x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Christine Dixon image from Twitter",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/heidibaynes-200x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "http://sonalpatel.net/",
-              "alt": "Heidi Baynes image from Twitter",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/chriscatuara-200x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://doublepeakschool.smusd.org/our_school/innovation_technology/about_mrs_dixon",
-              "alt": "Chris Catuara image from Twitter",
-              "title": ""
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/steammakerworkshop-200x200.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "http://www.sansmf.org/",
-              "alt": "Steam Maker Workshop Logo",
-              "title": "",
-              "linkInNewWindow": true
-            }
-          },
-          "title1": "Michael Bruder",
-          "subtitle1": "null",
-          "caption1": "Resource Teacher<br>Innovation and Instruction<br>Chula Vista Unified School District",
-          "title2": "Sarah Trueblood",
-          "subtitle2": "null",
-          "caption2": "Program Manager<br>Office of School Innovations <br>San Diego Unified School District",
-          "title3": "Christine Dixon",
-          "subtitle3": "@christinekdixon",
-          "caption3": "TK-8 Innovation Coordinator<br>Double Peak K8 School<br>San Marcos Unified School District",
-          "title4": "Heidi Baynes",
-          "subtitle4": "@HeidiBaynes",
-          "caption4": "Coordinator- Ed Tech <br>Riverside County Office of Education",
-          "title5": "Chris Catuara",
-          "subtitle5": "@chriscatuara<br>",
-          "caption5": "Coordinator of Instructional Technology&nbsp;<br>Ontario-Montclair SD&nbsp;",
-          "title6": "STEAM Maker Workshop",
-          "subtitle6": "@STEAM_Maker",
-          "caption6": "STEAM Maker - Science, Technology, Engineering, and Math",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"http://joshweisgrau.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://vida.vistausd.org/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H5": {
-              "color": "#2969b0",
-              "text-align": "center",
-              "font-size": "16px"
-            },
-            "B": {
-              "color": "#90a878"
-            }
-          },
-          "_anchor": "features3-x"
-        },
-        {
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -1227,7 +938,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-26-at-11.48.36-am-510x283.png",
+              "src": "@PROJECT_PATH@assets/images/screen%20shot%202019-02-26%20at%2011.48.36%20am-510x283.png",
               "link": "http://inventionconvention.org/home-page/",
               "alt": "Invention Convention LOGO",
               "title": ""
@@ -1377,6 +1088,299 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "title": "In the field with...",
+          "meta": "<b>30 minute sessions (lunch 11:00-11:30)</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7e9b9f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/book-2869-640-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "scissors organized on wall hooks",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-19%20at%2011.54.38%20am-600x409.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "rolled paper art",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/creativity-819371-640-600x401.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "light bulb drawn on paper",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/staircase-600468-640-600x398.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mosaic-200864-640-600x397.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "notepaper with ideas written and crumpled paper on top",
+              "title": ""
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "close up of workshop desk",
+              "title": ""
+            }
+          },
+          "title1": "Innovation Highlights",
+          "subtitle1": "CVESD&nbsp;<br><br>",
+          "caption1": "<i>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Michael Bruder</b>",
+          "title2": "Empathy Driven Design",
+          "subtitle2": "Purposeful Making in Elementary Classrooms<br><br>",
+          "caption2": "<i>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Sarah Trueblood&nbsp;</b><br>",
+          "title3": "Makerspace Virtual Tour &nbsp;",
+          "subtitle3": "Double Peak K-8<br>San Marcos<br><br>",
+          "caption3": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Christine Dixon</b>",
+          "title4": "Reverse Engineering",
+          "subtitle4": "Take it Apart, Learn How it Works, Make it Better<br><br>",
+          "caption4": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br>Guest<br><b>Heidi Baynes</b>",
+          "title5": "Designing<br>",
+          "subtitle5": "Join Us!<br><br><br>",
+          "caption5": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Sonal Patel</b>",
+          "title6": "STEAM Maker Workshop",
+          "subtitle6": "VR Field Trips<br><br>",
+          "caption6": "<i>Moderator</i><br><b>Jewyl Clarke</b><br><b><br></b><br><i>Guest</i><br><b>STEAM Maker Workshop</b>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/dc69c38f0e990098dc2040ba88984b7b \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10:30<br>ZOOM LINK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/514c40df5e631d98c5b9141539e44ee6 \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11:30<br>ZOOM LINK</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/55582ce011247a6dcde7dc3c8da9331e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:00<br>ZOOM LINK</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/c445703e45413785cde7dc3c8da9331e \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:30<br>ZOOM LINK</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/e0b236881e870d9c34538d7d4481ef37\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:00<br>ZOOM LINK<br></a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/d69e5f92aeaa11c934538d7d4481ef37 \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:30<br>ZOOM LINK</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-x",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-size": "16px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "font-size": "16px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "24px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "24px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/michaelbruder-200x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Michael Bruder image from Twitter",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sarahtrueblood-200x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://spark.adobe.com/page/WXVMt63itBLLD/",
+              "alt": "Sarah Trueblood image from Twitter",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/christine%20dixon-200x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Christine Dixon image from Twitter",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/heidibaynes-200x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://sonalpatel.net/",
+              "alt": "Heidi Baynes image from Twitter",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sonalpatel-200x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://doublepeakschool.smusd.org/our_school/innovation_technology/about_mrs_dixon",
+              "alt": "Sonal Patel image from Twitter",
+              "title": ""
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/steammakerworkshop-200x200.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://www.sansmf.org/",
+              "alt": "Steam Maker Workshop Logo",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title1": "Michael Bruder",
+          "subtitle1": "@Mr_BMichael",
+          "caption1": "Resource Teacher<br>Innovation and Instruction<br>Chula Vista Unified School District",
+          "title2": "Sarah Trueblood",
+          "subtitle2": "@truebloodsarah",
+          "caption2": "Program Manager<br>Office of School Innovations <br>San Diego Unified School District",
+          "title3": "Christine Dixon",
+          "subtitle3": "@christinekdixon",
+          "caption3": "TK-8 Innovation Coordinator<br>Double Peak K8 School<br>San Marcos Unified School District",
+          "title4": "Heidi Baynes",
+          "subtitle4": "@HeidiBaynes",
+          "caption4": "Coordinator- Ed Tech <br>Riverside County Office of Education",
+          "title5": "Sonal Patel",
+          "subtitle5": "@TrPatel20<br>",
+          "caption5": "Digital Learning Project Specialist<br>San Bernadino County<br>Superintendent of Schools",
+          "title6": "STEAM Maker Workshop",
+          "subtitle6": "@STEAM_Maker",
+          "caption6": "STEAM Maker - Science, Technology, Engineering, and Math",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://joshweisgrau.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://vida.vistausd.org/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H5": {
+              "color": "#2969b0",
+              "text-align": "center",
+              "font-size": "16px"
+            },
+            "B": {
+              "color": "#90a878"
+            }
+          },
+          "_anchor": "features3-x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff"
@@ -1487,7 +1491,7 @@
           "caption2": "@dochoc66",
           "title3": "Jewyl Clarke",
           "subtitle3": "Integrated Curriculum Coordinator",
-          "caption3": "@jewylclarke",
+          "caption3": "@JewylClarke",
           "title4": "Pamela Rabin",
           "subtitle4": "Project Specialist Educational Technology",
           "caption4": "@pamrabin",
