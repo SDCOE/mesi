@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MESI | San Diego County Office of Education - Innovation | #innovateSD",
-    "currentPage": "mesiwithus.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -73,7 +73,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-j\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mesiwithus.html\">Digital Learning Day - Get MESI with Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">MESI Symposium (coming soon)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-j\" aria-expanded=\"false\">MESI Cohorts (coming soon)<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.innovatesd.org/\" target=\"_blank\">Return to #innovateSD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-j\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mesiwithus.html\">Digital Learning Day - Get MESI with Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">MESI Symposium (coming soon)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-j\" aria-expanded=\"false\">MESI Cohorts (coming soon)<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.innovatesd.org/\" target=\"_blank\">Return to #innovateSD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -97,10 +97,10 @@
               "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -440,7 +440,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-j\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mesiwithus.html\">Digital Learning Day - Get MESI with Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">MESI Symposium (coming soon)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-j\" aria-expanded=\"false\">MESI Cohorts (coming soon)<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.innovatesd.org/\" target=\"_blank\">Return to #innovateSD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-j\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mesiwithus.html\">Digital Learning Day - Get MESI with Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">MESI Symposium (coming soon)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-j\" aria-expanded=\"false\">MESI Cohorts (coming soon)<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.innovatesd.org/\" target=\"_blank\">Return to #innovateSD</a></li>",
           "_tags": [
             "Theme"
           ],
