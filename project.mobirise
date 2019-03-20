@@ -1398,7 +1398,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">EVENT REGISTRATION</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">ONLINE SCHEDULE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"mesisymposium.html\" data-toolbar=\"-mbrBtnMove\">EVENT REGISTRATION</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mesisymposium.html\" data-toolbar=\"-mbrBtnMove\">ONLINE SCHEDULE</a>",
           "_tags": [
             "Theme"
           ],
