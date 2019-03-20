@@ -38,7 +38,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 70,
+    "uniqCompNum": 71,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
@@ -1290,7 +1290,7 @@
             }
           },
           "title": "<br>MESI SYMPOSIUM",
-          "text": "<b>Let's get MESI together!  Join us June 25th for a day of activities and breakouts to share best practices and resources in Making, Entrepreneurship, STEAM and Inventing. It’s time to #GetMESI in the classroom.</b><br>",
+          "text": "<b>Let's get MESI together!  Join us June 25 at the future home of the Comic-Con Museum in beautiful Baboa Park for a day of activities and breakouts to share best practices and resources in Making, Entrepreneurship, STEAM and Inventing. It’s time to #GetMESI in the classroom.</b><br>",
           "_tags": [
             "Theme"
           ],
