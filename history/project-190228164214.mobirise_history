@@ -1,0 +1,1538 @@
+{
+  "settings": {
+    "name": "MESI | San Diego County Office of Education - Innovation | #innovateSD",
+    "currentPage": "mesiwithus.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#005488",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#00aeef",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#282828",
+        "#00aeef",
+        "#005488"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.7",
+    "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "siteUrl": "https://mesi.innovatesd.org",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on",
+    "uniqCompNum": 44,
+    "versionPublish": "4.9.3",
+    "screenshot": "screenshot.png",
+    "sitemapSwitcher": "on"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "MESI | San Diego County Office Of Education - Innovation | #innovateSD",
+        "meta_descr": "Making | Entrepreneurship | STEAM | Inventing",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-j\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mesiwithus.html\">Get MESI with Us (Digital Learing day)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">MESI Symposium (coming soon)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-j\" aria-expanded=\"false\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.innovatesd.org/\" target=\"_blank\">Return to #innovateSD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#005488!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-color-165x128.jpg",
+              "height": 128,
+              "alt": "Home",
+              "link": "#top",
+              "title": "Home"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "80px"
+            },
+            ".lead P": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/get-mesi-save-the-date-1-816x1142.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MESI",
+          "text": "<p>Making | Entrepreneurship | STEAM | Inventing</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-11"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem;\">MESI is an affiliation created by the <a href=\"https://innovatesd.org\">Innovation Division</a> at the <a href=\"https://www.sdcoe.net/Pages/Home.aspx\" target=\"_blank\">San Diego County Office of Education</a> to connect and sustain a community of educators interested in learning about, sharing, and experimenting with innovative approaches, mindsets, and pedagogies. We are dedicated to organizing and facilitating events, networks, and experiences that will further maker-centered learning, deep learning connections across subject matter, and inspire curiosity and invention. Join us on this adventure and get MESI.</span><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-15",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#282828"
+          },
+          "title": "Upcoming Events &amp; Opportunities",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-v"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#005488",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/get-mesi-save-the-date-1-600x840.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "MESI Poster description also below",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/workspace-1-599x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "image of art workspace",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hands-1-400x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "image of many mulitcolored hands raised ",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Digital Learning Day - Feb. 28&nbsp;<div>&nbsp;“Get MESI With Us”<br></div>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Want to get MESI? - Join us virtually On Digital Learning Day to learn from experts discussing creative ways to set-up and sustain learning spaces where students make, invent, and learn about entrepreneurship and STEAM.<br><br>This is a free, virtual conference with drop-in sessions throughout the day. Sign in from any computer, ask questions or just follow along.",
+          "title2": "MESI Symposium - Coming in June<div>\"A MESI Day of Learning and Discussion\"&nbsp;</div>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<p>This will be a one-day experience for educators featuring:&nbsp;Computational Thinking (creating order out of complexity),&nbsp;Design Thinking (empathy with humanity), and&nbsp;Critical Thinking (deeper learning through experience).<br><br></p><p><br></p>",
+          "title3": "MESI Cohorts - Coming soon<br>\"A MESI Group of Learners with Common Goals\"",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "\"The most successful organizations in the world are the ones who work together, play together, and get messy together.\" <br><br>-Jeanne Malati<br><br><br><br>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"mesiwithus.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Event Page</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Interest List<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Interest List<br></a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-j",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#005488"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text P": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#282828",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "The San Diego County Office of Education is committed to ensuring equal, fair, and meaningful access to employment and education services. SDCOE does not discriminate in its employment practices or educational programs and activities on the basis of race, color, national or ethnic origin, ancestry, age, religion or religious creed, marital status, pregnancy or parental status, physical or mental disability or handicap, sex or gender, gender/transgender identity and expression, sexual orientation, military or veteran status, political affi\u001fliation, genetic information, a perception of one or more of such characteristics, association with a person of group with one or more of these actual or perceived characteristics, or any other characteristic protected under applicable federal, state or local law as applicable to educational services and/or employment. More detailed SDCOE policies and regulations can be found at <a href=\"http://www.sdcoe.net/nondiscrimination\" target=\"_blank\">www.sdcoe.net/nondiscrimination.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-o",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        }
+      ]
+    },
+    "mesiwithus.html": {
+      "settings": {
+        "meta_descr": "MESI is Making | Entrepreneurship | STEAM | Inventing, a cohort for people who like makerspaces, design thinking, thinking out of the box, and getting elbow deep in the details of it all. ",
+        "title": "Digital Learning Day - Get MESI With Us",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#005488"
+          },
+          "title": "EVENT",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-17"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-j\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mesiwithus.html\">Get MESI with Us (Digital Learing day)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">MESI Symposium (coming soon)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-j\" aria-expanded=\"false\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.innovatesd.org/\" target=\"_blank\">Return to #innovateSD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#005488!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-color-165x128.jpg",
+              "height": 128,
+              "alt": "Home",
+              "link": "#top",
+              "title": "Home",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-w"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#282828",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "The San Diego County Office of Education is committed to ensuring equal, fair, and meaningful access to employment and education services. SDCOE does not discriminate in its employment practices or educational programs and activities on the basis of race, color, national or ethnic origin, ancestry, age, religion or religious creed, marital status, pregnancy or parental status, physical or mental disability or handicap, sex or gender, gender/transgender identity and expression, sexual orientation, military or veteran status, political affi\u001fliation, genetic information, a perception of one or more of such characteristics, association with a person of group with one or more of these actual or perceived characteristics, or any other characteristic protected under applicable federal, state or local law as applicable to educational services and/or employment. More detailed SDCOE policies and regulations can be found at <a href=\"http://www.sdcoe.net/nondiscrimination\" target=\"_blank\">www.sdcoe.net/nondiscrimination.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "footer1-x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-26-at-11.24.16-am-480x673.png",
+              "link": "https://drive.google.com/open?id=0B9fUIWESC5EkUDN0djIwV1ZBalU",
+              "alt": "MESI Event Flyer duplicate information listed on this website",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Get MESI with Us",
+          "text": "<b>Digital Learning Day Online Event</b><br>Feb. 28, 2019<br>9 a.m. to 4 p.m.<br><br>Opening Panel<br>&nbsp;Special Sessions (2)<br>30 minute \"In the Field\" sessions (6)<br>Final Sesson<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-18",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#000000",
+              "font-size": "24px"
+            },
+            "B": {
+              "font-size": "30px"
+            },
+            "SPAN": {
+              "color": "#000000",
+              "font-size": "48px"
+            },
+            "H3": {
+              "text-align": "center",
+              "color": "#005488"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://getmesiwithusondld2019v2.sched.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENT SCHED.COM</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INTEREST FORM</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-17"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "33",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/brain-2062057-640-640x487.jpg",
+              "link": "",
+              "alt": "image of analytical and creative sides of the brain",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Opening Panel Discussion",
+          "text": "Are you curious about Maker Spaces? Have you thought about creating a maker space in your classroom, school or district? We have compiled a team of experts who will walk you through the process from theory to practice. Learn from experts around the country who are changing the field of education. Learn about hands on learning that change the lives of our children.<br><br>SDCOE moderators Jewyl Clarke &amp; Michanne Hoctor-Thompson host Laura Spencer, Josh Weisgrau, and Ed Chagala in sharing their knowledge of best practices and experience.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://sdcoe.zoom.us/meeting/register/cbd3250cc585075b4ac87b605f06faf5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9:00-10:15<br>ZOOM LINK<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-w",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lauraspencer-399x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Laura Spencer image from Twitter",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/joshweisgrau-400x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Josh Weisgrau image from Twitter",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ericchagala-400x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Ed Chagala image from Twitter",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/danhendricks-399x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Dan Hendricks image from OSML website",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/grantlictman-400x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Grant Lichtman image from Twitter",
+              "title": ""
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Laura Spencer, Ed.D.",
+          "subtitle1": "@LSpencerEdD<br><a href=\"http://laurakspencer.com\" target=\"_blank\" class=\"text-primary\"><b>laurakspencer.com</b></a><br>",
+          "caption1": "Laura is the Executive Director of Innovation and Design for Del Mar Union School District, and a former Director of Educational Technology. An award-winning educator and administrator, Laura is committee to ensuring that students engage in authentic, meaningful learning experiences to prepare them for their future. Laura is committed to providing an extraordinary school experience for all students. Through coaching teachers and site administrators on how to infuse Design Thinking, technology, and real-world connections into core instruction, students experience personalized learning that develops agency and the skills that matter most. Laura has been honored as the Top Tech Exec of San Diego County from among 600 teach leaders, as well as the Classroom of the Future Foundation Innovative Educator of the Year. She also serves as President of <a href=\"http://sdcue.org\" target=\"_blank\" class=\"text-primary\">San Diego Computer Using Educators (SDCUE)</a> and is a Founding Board Member of <a href=\"http://adinaeducation.net/EquityEDU/\" target=\"_blank\" class=\"text-primary\">EquityEDU</a>.<br>",
+          "title2": "Josh Weisgrau",
+          "subtitle2": "@jweisgrau<div><a href=\"http://www.joshweisgrau.com/\" target=\"_blank\" class=\"text-primary\"><b>joshweisgrau.com</b></a></div>",
+          "caption2": "Josh is the Director of Learning Experience Design at <a href=\"https://digitalpromise.org/\" target=\"_blank\" class=\"text-primary\">Digital Promise</a>, leading a portfolio of projects working with schools and educators to design learning experiences that will empower the next generation of creators and change-makers. <br>Prior to joining Digital Promise, Josh helped develop the makerspace and maker learning program at Friends’ Central School in Wynnewood, PA, and has taught Photography, Information and Digital Literacy, Computer Science, Shop, and STEAM. He is a co-founder of Rough Cut Schools, consulting and advocating for media literacy and production in schools around the world. Before that, he worked in theaters and schools teaching kids about technical theater and design. <br><br>Josh has a B.A. in theater from Wesleyan University and a Masters of Liberal Arts with a focus in media and cultural studies from Temple University.",
+          "title3": "Eric Chagala, Ed.D.",
+          "subtitle3": "@drchagala<div><a href=\"https://ericchagala.weebly.com/\" target=\"_blank\" class=\"text-primary\"><b>ericchagala.com</b></a></div>",
+          "caption3": "Eric Chagala (Ed.D. Educational Leadership) is the founding principal of the Vista Innovation &amp; Design Academy (VIDA). Eric believes that all kids need a place to matter, that schools have souls and those souls need to be nurtured, and that our actions say what we believe about kids. <br><br>Eric has spoken across North America in both workshops &amp; Keynotes about Design Thinking, and to talk what it takes for school leaders to build a true school culture that will be ripe for innovation. In addition, Eric is on the Faculty for the Graduate School at High Tech High, he is an Apprentice Coach with Stanford University's \"School Re-Tool\" work at the famed <a href=\"https://dschool.stanford.edu/\" target=\"_blank\" class=\"text-primary\">d.School </a>(Institute of Design), and is a Deeper Learning Fellow with DLLF. In addition, Eric is the Co-Founder of <a href=\"https://designcampsd.weebly.com/\" target=\"_blank\" class=\"text-primary\">#DesignCamp for Education</a>.",
+          "title4": "Dan Hendricks",
+          "subtitle4": "@OSMakerLabs<div><a href=\"https://www.opensourcemakerlabs.com/page/our-staff\" target=\"_blank\" class=\"text-primary\"><b>osml.com</b></a></div>",
+          "caption4": "<br>",
+          "title5": "Grant Lichtman",
+          "subtitle5": "@GrantLictman<br><a href=\"http://www.grantlictman.com\" class=\"text-primary\"><b>grantlichtman.com</b></a>",
+          "caption5": "",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://joshweisgrau.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://vida.vistausd.org/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-10",
+          "_styles": {
+            "H5": {
+              "color": "#2969b0",
+              "text-align": "center",
+              "font-size": "16px"
+            },
+            "B": {
+              "color": "#90a878"
+            },
+            "P": {
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "title": "In the field with...",
+          "meta": "<b>30 minute sessions (lunch 11:00-11:30)</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7e9b9f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/book-2869-640-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "scissors organized on wall hooks",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-11.54.38-am-600x409.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "rolled paper art",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/creativity-819371-640-600x401.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "light bulb drawn on paper",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/staircase-600468-640-600x398.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mosaic-200864-640-600x397.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "notepaper with ideas written and crumpled paper on top",
+              "title": ""
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "close up of workshop desk",
+              "title": ""
+            }
+          },
+          "title1": "Innovation Highlights",
+          "subtitle1": "CVESD&nbsp;<br><br>",
+          "caption1": "<i>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Michael Bruder</b>",
+          "title2": "Empathy Driven Design",
+          "subtitle2": "Purposeful Making in Elementary Classrooms<br><br>",
+          "caption2": "<i>Moderator</i><b><br>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Sarah Trueblood&nbsp;</b><br>",
+          "title3": "Makerspace Virtual Tour &nbsp;",
+          "subtitle3": "Double Peak K-8<br>San Marcos<br><br>",
+          "caption3": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Christine Dixon</b>",
+          "title4": "Reverse Engineering",
+          "subtitle4": "Take it Apart, Learn How it Works, Make it Better<br><br>",
+          "caption4": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br>Guest<br><b>Heidi Baynes</b>",
+          "title5": "Taking Your Makerspace Mobile<br>",
+          "subtitle5": "Highlights from Ontario-Montclair SD",
+          "caption5": "<i>Moderator</i><br><b>Michanne Hoctor-Thompson</b><br><br><i>Guest</i><br><b>Chris Catuara</b>",
+          "title6": "STEAM Maker Workshop",
+          "subtitle6": "VR Field Trips<br><br>",
+          "caption6": "<i>Moderator</i><br><b>Jewyl Clarke</b><br><b><br></b><br><i>Guest</i><br><b>STEAM Maker Workshop</b>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/dc69c38f0e990098dc2040ba88984b7b \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10:30<br>ZOOM LINK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/514c40df5e631d98c5b9141539e44ee6 \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11:30<br>ZOOM LINK</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/55582ce011247a6dcde7dc3c8da9331e\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:00<br>ZOOM LINK</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/c445703e45413785cde7dc3c8da9331e \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12:30<br>ZOOM LINK</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/e0b236881e870d9c34538d7d4481ef37\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:00<br>ZOOM LINK<br></a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://sdcoe.zoom.us/meeting/register/d69e5f92aeaa11c934538d7d4481ef37 \" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:30<br>ZOOM LINK</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-x",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-size": "16px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "font-size": "16px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "24px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "24px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/michaelbruder-200x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Michael Bruder image from Twitter",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sarahtrueblood-200x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://spark.adobe.com/page/WXVMt63itBLLD/",
+              "alt": "Sarah Trueblood image from Twitter",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/christine-dixon-200x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Christine Dixon image from Twitter",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/heidibaynes-200x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://sonalpatel.net/",
+              "alt": "Heidi Baynes image from Twitter",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/chriscatuara-200x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://doublepeakschool.smusd.org/our_school/innovation_technology/about_mrs_dixon",
+              "alt": "Chris Catuara image from Twitter",
+              "title": ""
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/steammakerworkshop-200x200.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://www.sansmf.org/",
+              "alt": "Steam Maker Workshop Logo",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title1": "Michael Bruder",
+          "subtitle1": "@Mr_MBruder",
+          "caption1": "Resource Teacher<br>Innovation and Instruction<br>Chula Vista Unified School District",
+          "title2": "Sarah Trueblood",
+          "subtitle2": "@truebloodsarah",
+          "caption2": "Program Manager<br>Office of School Innovations <br>San Diego Unified School District",
+          "title3": "Christine Dixon",
+          "subtitle3": "@christinekdixon",
+          "caption3": "TK-8 Innovation Coordinator<br>Double Peak K8 School<br>San Marcos Unified School District",
+          "title4": "Heidi Baynes",
+          "subtitle4": "@HeidiBaynes",
+          "caption4": "Coordinator- Ed Tech <br>Riverside County Office of Education",
+          "title5": "Chris Catuara",
+          "subtitle5": "@chriscatuara<br>",
+          "caption5": "Coordinator of Instructional Technology&nbsp;<br>Ontario-Montclair SD&nbsp;",
+          "title6": "STEAM Maker Workshop",
+          "subtitle6": "@STEAM_Maker",
+          "caption6": "STEAM Maker - Science, Technology, Engineering, and Math",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://joshweisgrau.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://vida.vistausd.org/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H5": {
+              "color": "#2969b0",
+              "text-align": "center",
+              "font-size": "16px"
+            },
+            "B": {
+              "color": "#90a878"
+            }
+          },
+          "_anchor": "features3-x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "33",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/osml-1400x970.jpg",
+              "link": "https://www.opensourcemakerlabs.com/page/homepage",
+              "alt": "Compiled image of Dan Hendricks and the maker space",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Special Session",
+          "text": "<b>Explore a Real Life Business - OSML in Vista&nbsp;with Owner Dan Henricks</b><b><br></b><br>Open Source Maker Labs provides resources for its members by making equipment, open source technology, knowledge, and projects more accessible. SDCOE moderators Erin English and Pamela Rabin lead a discussion on maker labs, entreprenurial opportunities, and the educational ramifications.<br><br>@OSMakerLabs<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://sdcoe.zoom.us/meeting/register/0489a09459b9c5107510d14dfea9e911\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1:00-2:00<br>ZOOM LINK<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            "B": {
+              "font-size": "30px",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box5-15"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem;\">Dan Hendricks is the founder and President of Open Source Maker Labs. Dan has over 30 years of experience in the Navy, as a Nuclear Engineering Officer, Surface Warfare Officer and Engineering Duty Officer, retiring at the rank of Captain (O-6). He has a bachelor of science degree in mathematics from the Naval Academy, and a master of science degree in computer science from the Naval Postgraduate School. Since leaving active duty, Dan has worked in both the private and public sector in roles of increasing responsibility in program management and budgeting, network architecture, systems engineering, and computer security. Dan is a registered Professional Engineer (Electrical) in the state of Washington, and is a Certified Information Systems Security Professional (CISSP). He is a member of IEEE, IEEE Computer Society, IEEE Communications Society, and a founding member of the San Diego Tech Hub.&nbsp;</span><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-12",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "33",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-26-at-11.48.36-am-510x283.png",
+              "link": "http://inventionconvention.org/home-page/",
+              "alt": "Invention Convention LOGO",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Special Session",
+          "text": "<b>Invention Convention: Imagination, Set Free</b><b><br></b><br>The Invention Convention program is designed to activate a FREE project-based learning curriculum through school, state and national showcase events. Join SDCOE moderator Erin English in and the folks from inventionconvention.org as they disscuss how invention education challenges the workforce of tomorrow to unlock real-world skills for identifying problems, sharing solutions and implementing ideas. <br><i>(Note there is an \"In the field\" session concurrent with this special session.)</i><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://sdcoe.zoom.us/j/551555898\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2:00-2:30<br>ZOOM LINK<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-size": "30px",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box5-w"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p>The STEMIE Coalition is an umbrella organization that “rolls up” efforts of concurrently operating K-12 youth invention and entrepreneurship programs across the U.S. and globally. The most public and unique facet of The STEMIE Coalition is the National Invention Convention.  Now part of The Henry Ford.  Read more about The STEMIE Coalition and <a href=\"https://www.thehenryford.org/\" target=\"_blank\">The Henry Ford</a>.&nbsp;</p><p><br></p><p>Invention Education builds upon the STEM (Science, Technology, Engineering and Math) education efforts already in place in our schools, and teaches students to combine those skills with creative, out-of-the-box thinking to create solutions to real-world problems.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "32",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/grantlictman-376x377.jpg",
+              "link": "https://www.opensourcemakerlabs.com/page/homepage",
+              "alt": "Grant Lichtman photo from twitter",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Final Session",
+          "text": "<b>Moving the Rock: &nbsp; Author Grant Lictman</b><b><br></b><br>What can you and your school team do to help fundamentally transform our outdated system of education? How are other schools and districts, facing the same obstacles as you, making this shift to a more student-centric, engaging, deeper learning experience? Join SDCOE moderators Pamela Rabin and Erin English as we host a discussion with internationally-recognized thought leader and author Grant Lichtman where we consider and discuss seven \"levers\" of school transformation that WE can all press, as described in his latest book, Moving the Rock.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://sdcoe.zoom.us/meeting/register/e26452ec759a37464ac87b605f06faf5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3:00-4:00<br>ZOOM LINK<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-10",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            "B": {
+              "font-size": "30px",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem;\">Grant Lichtman is an internationally-recognized thought leader on the transformation of K-12 education. He works with school teams to develop a comfort and capacity for change in a rapidly changing world. For almost 15 years, Grant was a trustee and senior administrator at one of the largest independent schools in the United States. Since 2012, Grant has visited more than 125 schools and districts, published three books, written numerous articles, and worked with thousands of school and community stakeholders to develop unique and powerful visions and strategies for transforming education away from the Industrial Age and towards future-focused models of deeper learning. @grantlichman</span><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-16"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#282828"
+          },
+          "title": "SDCOE Moderators",
+          "meta": "<b>Innovation Division</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/erinenglish-1-400x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Erin English image from twitter",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/michanne-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Michanne Hoctor-Thompson  Image from Twitter",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jewylclarke-399x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Jewyl Clarke image from Twitter",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-9775-600x556.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Dr. Erin English",
+          "subtitle1": "Executive Director of Innovation",
+          "caption1": "@eenglished",
+          "title2": "Dr. Michanne Hoctor-Thompson",
+          "subtitle2": "Coordinator Educational Technology",
+          "caption2": "@dochoc66",
+          "title3": "Jewyl Clarke",
+          "subtitle3": "Integrated Curriculum Coordinator",
+          "caption3": "@jewylclarke",
+          "title4": "Pamela Rabin",
+          "subtitle4": "Project Specialist Educational Technology",
+          "caption4": "@pamrabin",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-y"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "SHARE THIS PAGE!",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-19"
+        }
+      ]
+    }
+  }
+}
