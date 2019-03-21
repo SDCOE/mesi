@@ -725,15 +725,12 @@ h6,
 }
 #msg-box5-26 H3 {
   color: #ffffff;
-  text-align: left;
-  font-size: 80px;
+  text-align: center;
+  font-size: 100px;
 }
 #msg-box5-26 P {
   color: #ffffff;
   font-size: 25px;
-  text-align: left;
-}
-#content1-15 P {
   text-align: left;
 }
 #header3-v .mbr-section-title,
