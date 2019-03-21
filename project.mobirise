@@ -1214,7 +1214,7 @@
             "inverse": true,
             "imageSize": "28",
             "paddingTop": "5",
-            "paddingBottom": "4",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mesi-logo-6-1187x674.jpg",
             "parallax": true,
