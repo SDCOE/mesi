@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MESI | San Diego County Office of Education - Innovation | #innovateSD",
-    "currentPage": "mesisymposium.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -38,7 +38,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 75,
+    "uniqCompNum": 79,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
@@ -1207,44 +1207,68 @@
           "_anchor": "ext_menu-3"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "80px"
-            },
-            ".lead P": {
-              "font-size": "30px"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "28",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/get-mesi-save-the-date-1-816x1142.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mesi-logo-5-1190x442.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1-1400x1066.png",
+              "link": "",
+              "alt": "SDCOE Logo, Future Without Boundaries",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
           },
           "title": "MESI",
-          "text": "<p>Making | Entrepreneurship | STEAM | Inventing</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "text": "Making | Entrepreneurship | STEAM | Invention",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-11"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-26",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "80px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "25px",
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
