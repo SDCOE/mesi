@@ -566,97 +566,6 @@ h6,
 }
 
 
-#header3-1u .mbr-section-title,
-#header3-1u .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1u .mbr-section-title {
-  text-align: left;
-  color: #cccccc;
-  font-size: 24px;
-}
-#msg-box6-1w .mbr-section-title,
-#msg-box6-1w .lead p {
-  color: #fff;
-}
-#msg-box6-1w H3 {
-  text-align: center;
-}
-#msg-box6-1w P {
-  text-align: center;
-}
-#msg-box6-1w B {
-  font-size: 20px;
-}
-#ext_menu-1o .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-1o .navbar-caption {
-  color: #ffffff;
-  font-size: 18px;
-}
-#ext_menu-1o .navbar-toggler {
-  color: #cccccc;
-}
-#ext_menu-1o .close-icon::before,
-#ext_menu-1o .close-icon::after {
-  background-color: #cccccc;
-}
-#ext_menu-1o .link,
-#ext_menu-1o .dropdown-item {
-  color: #cccccc;
-  font-family: 'Lato', sans-serif;
-}
-#ext_menu-1o .link {
-  font-size: 1.35rem;
-}
-#ext_menu-1o .dropdown-item,
-#ext_menu-1o .nav-dropdown-sm .link {
-  font-size: 1.462rem;
-}
-#ext_menu-1o .link:hover,
-#ext_menu-1o .dropdown-item:hover,
-#ext_menu-1o .link:focus,
-#ext_menu-1o .dropdown-item:focus {
-  color: #005488;
-}
-#ext_menu-1o .link[aria-expanded="true"],
-#ext_menu-1o .dropdown-menu {
-  background: #000000;
-}
-#ext_menu-1o .nav-dropdown-sm .link:focus,
-#ext_menu-1o .nav-dropdown-sm .link:hover,
-#ext_menu-1o .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-1o .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#ext_menu-1o .navbar,
-#ext_menu-1o .nav-dropdown-sm,
-#ext_menu-1o .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-1o .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#ext_menu-1o .bg-color.transparent .link {
-  color: #cccccc;
-  transition: none;
-}
-#ext_menu-1o .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-1o .bg-color.transparent.opened .link:hover,
-#ext_menu-1o .bg-color.transparent.opened .link:focus {
-  color: #005488;
-}
-#ext_menu-1o .link[aria-expanded="true"],
-#ext_menu-1o .dropdown-item[aria-expanded="true"] {
-  color: #005488!important;
-}
-#footer1-1p P {
-  text-align: left;
-  font-family: 'Montserrat', sans-serif;
-}
-
-
 
 
 
@@ -758,6 +667,97 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #footer1-o P {
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+#header3-1u .mbr-section-title,
+#header3-1u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1u .mbr-section-title {
+  text-align: left;
+  color: #cccccc;
+  font-size: 24px;
+}
+#msg-box6-1w .mbr-section-title,
+#msg-box6-1w .lead p {
+  color: #fff;
+}
+#msg-box6-1w H3 {
+  text-align: center;
+}
+#msg-box6-1w P {
+  text-align: center;
+}
+#msg-box6-1w B {
+  font-size: 20px;
+}
+#ext_menu-1o .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1o .navbar-caption {
+  color: #ffffff;
+  font-size: 18px;
+}
+#ext_menu-1o .navbar-toggler {
+  color: #cccccc;
+}
+#ext_menu-1o .close-icon::before,
+#ext_menu-1o .close-icon::after {
+  background-color: #cccccc;
+}
+#ext_menu-1o .link,
+#ext_menu-1o .dropdown-item {
+  color: #cccccc;
+  font-family: 'Lato', sans-serif;
+}
+#ext_menu-1o .link {
+  font-size: 1.35rem;
+}
+#ext_menu-1o .dropdown-item,
+#ext_menu-1o .nav-dropdown-sm .link {
+  font-size: 1.462rem;
+}
+#ext_menu-1o .link:hover,
+#ext_menu-1o .dropdown-item:hover,
+#ext_menu-1o .link:focus,
+#ext_menu-1o .dropdown-item:focus {
+  color: #005488;
+}
+#ext_menu-1o .link[aria-expanded="true"],
+#ext_menu-1o .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-1o .nav-dropdown-sm .link:focus,
+#ext_menu-1o .nav-dropdown-sm .link:hover,
+#ext_menu-1o .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1o .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-1o .navbar,
+#ext_menu-1o .nav-dropdown-sm,
+#ext_menu-1o .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1o .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-1o .bg-color.transparent .link {
+  color: #cccccc;
+  transition: none;
+}
+#ext_menu-1o .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1o .bg-color.transparent.opened .link:hover,
+#ext_menu-1o .bg-color.transparent.opened .link:focus {
+  color: #005488;
+}
+#ext_menu-1o .link[aria-expanded="true"],
+#ext_menu-1o .dropdown-item[aria-expanded="true"] {
+  color: #005488!important;
+}
+#footer1-1p P {
   text-align: left;
   font-family: 'Montserrat', sans-serif;
 }
