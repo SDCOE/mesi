@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MESI | San Diego County Office of Education - Innovation | #innovateSD",
-    "currentPage": "symposium.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -23,7 +23,9 @@
       "additionalSetColors": [
         "#282828",
         "#00aeef",
-        "#005488"
+        "#005488",
+        "#06779f",
+        "#99b4c2"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -221,7 +223,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#005488",
+            "bgColor": "#99b4c2",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -235,7 +237,8 @@
             "P": {
               "text-align": "left",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
             }
           },
           "_anchor": "footer1-x"
@@ -959,14 +962,14 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "28",
             "paddingTop": "5",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mesi-logo-6-1187x674.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sdcoeview-2000x1500.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -976,7 +979,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -1000,7 +1003,7 @@
             }
           },
           "title": "MESI",
-          "text": "Making | Entrepreneurship | STEAM | Invention",
+          "text": "<b>Making | Entrepreneurship | STEAM | Invention</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1016,7 +1019,7 @@
             "P": {
               "color": "#ffffff",
               "font-size": "25px",
-              "text-align": "left"
+              "text-align": "center"
             }
           }
         },
@@ -1033,8 +1036,8 @@
           "_params": {
             "showMeta": false,
             "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#282828"
+            "paddingBottom": "1",
+            "bgColor": "#99b4c2"
           },
           "title": "Events &amp; Opportunities",
           "meta": "",
@@ -1051,7 +1054,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true,
-            "columnsColor": "#28324e",
+            "columnsColor": "#005488",
             "paddingTop": "1",
             "paddingBottom": "2",
             "columns": "2",
@@ -1128,7 +1131,7 @@
           "title1": "<div>MESI Cohorts - Coming soon</div><div>\"A MESI Group of Learners with Common Goals\"</div>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "\"The most successful organizations in the world are the ones who work together, play together, and get messy together.\" <br><br>-Jeanne Malati",
-          "title2": "MESI Symposium - Coming in June<div>\"A MESI Day of Learning and Discussion\"&nbsp;</div>",
+          "title2": "MESI Symposium - June 25",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "<p>This will be a one-day experience for educators featuring:&nbsp;Computational Thinking (creating order out of complexity),&nbsp;Design Thinking (empathy with humanity), and&nbsp;Critical Thinking (deeper learning through experience).<br></p>",
           "title3": "MESI Cohorts - Coming soon<br>\"A MESI Group of Learners with Common Goals\"",
@@ -1144,7 +1147,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"mesiwithus.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">INTEREST LIST</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"mesisymposium.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENT PAGE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"mesisymposium.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENT PAGE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Interest List<br></a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1156,7 +1159,7 @@
           "_anchor": "features1-j",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#28324e"
+              "background-color": "#005488"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "text-align": "left",
@@ -1184,7 +1187,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#005488",
+            "bgColor": "#99b4c2",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1199,7 +1202,8 @@
             "P": {
               "text-align": "left",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
             }
           }
         }
@@ -1532,7 +1536,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#005488",
+            "bgColor": "#99b4c2",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1546,7 +1550,8 @@
             "P": {
               "text-align": "left",
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#ffffff"
             }
           },
           "_anchor": "footer1-1p"

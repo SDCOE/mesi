@@ -499,6 +499,7 @@ h6,
 #footer1-x P {
   text-align: left;
   font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
 }
 #msg-box4-1a H3 {
   font-size: 25px;
@@ -640,7 +641,7 @@ h6,
 #msg-box5-26 P {
   color: #ffffff;
   font-size: 25px;
-  text-align: left;
+  text-align: center;
 }
 #header3-v .mbr-section-title,
 #header3-v .mbr-section-subtitle {
@@ -651,7 +652,7 @@ h6,
   font-size: 30px;
 }
 #features1-j .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #28324e;
+  background-color: #005488;
 }
 #features1-j .mbr-cards-col:nth-child(odd) .card-text {
   text-align: left;
@@ -669,6 +670,7 @@ h6,
 #footer1-o P {
   text-align: left;
   font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
 }
 
 
@@ -764,4 +766,5 @@ h6,
 #footer1-1p P {
   text-align: left;
   font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
 }
