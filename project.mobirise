@@ -1437,9 +1437,10 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://sdcoe.k12oms.org/eventdetail.php?gid=2287&id=165314",
               "size": 0,
-              "color": "#00aeef"
+              "color": "#00aeef",
+              "newWindow": true
             }
           },
           "media2": {
