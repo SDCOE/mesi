@@ -43,9 +43,7 @@
     "uniqCompNum": 80,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on",
-    "publishType": "local",
-    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/mesi"
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "mesiwithus.html": {
@@ -102,7 +100,7 @@
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-19%20at%2011.54.38%20am-600x409.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-11.54.38-am-600x409.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -987,7 +985,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1-1400x1066.png",
               "link": "",
               "alt": "SDCOE Logo, Future Without Boundaries",
               "title": ""
@@ -1288,7 +1286,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1400x1066.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -1452,9 +1450,10 @@
               "name": "mobile",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://mesi.innovatesd.org/symposium",
               "size": 0,
-              "color": "#00aeef"
+              "color": "#00aeef",
+              "newWindow": true
             }
           },
           "media3": {
@@ -1464,9 +1463,10 @@
               "name": "users",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLScl2ojCyPyZ4yd-JYlikoESca-pl_yn21K5qticgXY9_NECBA/viewform",
               "size": 0,
-              "color": "#00aeef"
+              "color": "#00aeef",
+              "newWindow": true
             }
           },
           "media4": {
