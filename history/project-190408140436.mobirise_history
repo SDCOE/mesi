@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MESI | San Diego County Office of Education - Innovation | #innovateSD",
-    "currentPage": "symposium.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -43,7 +43,9 @@
     "uniqCompNum": 80,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/mesi"
   },
   "pages": {
     "mesiwithus.html": {
@@ -100,7 +102,7 @@
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-11.54.38-am-600x409.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-19%20at%2011.54.38%20am-600x409.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -985,7 +987,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1-1400x1066.png",
               "link": "",
               "alt": "SDCOE Logo, Future Without Boundaries",
               "title": ""
@@ -1147,7 +1149,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"mesiwithus.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">INTEREST LIST</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"symposium.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENT PAGE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"mesisymposium.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EVENT PAGE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWAat7vSYcDp5BiHi9eRKWj8_sDA79527NnCI6QVr56LpB1w/viewform?usp=sf_link\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Interest List<br></a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1286,7 +1288,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1400x1066.png",
               "link": "",
               "alt": "",
               "title": ""
