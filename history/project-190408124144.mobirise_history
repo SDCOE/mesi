@@ -1476,10 +1476,9 @@
               "name": "users",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "index.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#00aeef",
-              "newWindow": true
+              "color": "#00aeef"
             }
           },
           "media5": {
@@ -1526,7 +1525,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://sdcoe.k12oms.org/eventdetail.php?gid=2287&amp;id=165314\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mesi.innovatesd.org/symposium\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScl2ojCyPyZ4yd-JYlikoESca-pl_yn21K5qticgXY9_NECBA/viewform\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">APPLY</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MESI HOME</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MESI HOME</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features6",
