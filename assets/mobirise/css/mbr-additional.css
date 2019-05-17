@@ -768,3 +768,7 @@ h6,
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
 }
+#msg-box3-2a .mbr-section-title,
+#msg-box3-2a p {
+  color: #000;
+}

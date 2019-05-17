@@ -25,8 +25,7 @@
         "#00aeef",
         "#005488",
         "#06779f",
-        "#99b4c2",
-        "#f2f2f2"
+        "#99b4c2"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -41,10 +40,12 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 83,
+    "uniqCompNum": 80,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/mesi"
   },
   "pages": {
     "mesiwithus.html": {
@@ -101,7 +102,7 @@
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-11.54.38-am-600x409.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-19%20at%2011.54.38%20am-600x409.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -986,7 +987,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1-1400x1066.png",
               "link": "",
               "alt": "SDCOE Logo, Future Without Boundaries",
               "title": ""
@@ -1287,7 +1288,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1400x1066.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -1560,41 +1561,6 @@
             }
           },
           "_anchor": "footer1-1p"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "EXHIBIT HALL",
-          "text": "<p>We invite you to exhibit your organization, programs, products or successes at the MESI Symposium as part of the #GetMESI Exhibit hall.  As the event is taking place in an empty museum, we encourage you to use additional space to demonstrate, display, engage educators in activities, or think up other ways to #GetMESI.&nbsp;</p><p><span style=\"font-size: 1.07rem;\">Please complete your Exhibit Hall registration no later than June 7, 2019, however we greatly appreciate early registrations. Your logo and organization will be highlighted on our website once registration is complete.&nbsp;</span></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXHIBIT HALL REGISTRATION</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-2a"
         }
       ]
     }
