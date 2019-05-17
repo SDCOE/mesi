@@ -41,7 +41,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 85,
+    "uniqCompNum": 86,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on"
@@ -1597,12 +1597,32 @@
           "_anchor": "msg-box3-2a"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Sponsorship Opportunities",
+          "meta": "<a href=\"assets/files/MESI%20Sympsium%20Sponsorship%20Deck%202019.pdf\">Download PDF</a> or see below",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2d"
+        },
+        {
           "_params": {
             "autoplay": true,
             "fullScreen": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#fff",
             "timeout": 5,
             "slides": [
@@ -1688,7 +1708,7 @@
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
           },

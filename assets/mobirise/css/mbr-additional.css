@@ -772,3 +772,7 @@ h6,
 #msg-box3-2a p {
   color: #000;
 }
+#header3-2d .mbr-section-title,
+#header3-2d .mbr-section-subtitle {
+  text-align: center;
+}
