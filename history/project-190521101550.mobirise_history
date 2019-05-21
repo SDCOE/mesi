@@ -44,7 +44,9 @@
     "uniqCompNum": 86,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/mesi"
   },
   "pages": {
     "mesiwithus.html": {
@@ -101,7 +103,7 @@
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-11.54.38-am-600x409.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-19%20at%2011.54.38%20am-600x409.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -986,7 +988,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1-1400x1066.png",
               "link": "",
               "alt": "SDCOE Logo, Future Without Boundaries",
               "title": ""
@@ -1287,7 +1289,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1400x1066.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -1592,7 +1594,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe_QEYAWD3f7Nt5uD4cV7659HC7gOFiiakYvXg_F6sCQW8uHA/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EXHIBIT HALL REGISTRATION</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXHIBIT HALL REGISTRATION</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-2a"
         },
@@ -1627,7 +1629,7 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.50.49-pm-2000x1125.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.50.49%20pm-2000x1125.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1641,7 +1643,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-1.24.55-pm-2000x1126.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%201.24.55%20pm-2000x1126.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1655,7 +1657,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.08-pm-2000x1126.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.08%20pm-2000x1126.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1669,7 +1671,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.20-pm-2000x1123.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.20%20pm-2000x1123.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1683,7 +1685,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.33-pm-2000x1126.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.33%20pm-2000x1126.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1697,7 +1699,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.45-pm-2000x1122.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.45%20pm-2000x1122.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
