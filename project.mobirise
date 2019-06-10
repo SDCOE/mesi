@@ -1184,14 +1184,19 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#99b4c2"
           },
           "text": "<blockquote>The San Diego County Office of Education presents the MESI Symposium in collaboration with the Comic-Con Museum and the Classroom of the Future Foundation. We thank our sponsor North Island Credit Union for their generous donation. &nbsp;</blockquote>",
           "_tags": [
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-2g"
+          "_anchor": "content2-2g",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
@@ -1228,8 +1233,8 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
