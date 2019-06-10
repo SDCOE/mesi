@@ -775,6 +775,9 @@ h6,
 #msg-box3-2a p {
   color: #000;
 }
+#content2-2h BLOCKQUOTE {
+  color: #ffffff;
+}
 #header3-2d .mbr-section-title,
 #header3-2d .mbr-section-subtitle {
   text-align: center;
