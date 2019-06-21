@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MESI | San Diego County Office of Education - Innovation | #innovateSD",
-    "currentPage": "symposium.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -44,7 +44,9 @@
     "uniqCompNum": 91,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/mesi"
   },
   "pages": {
     "mesiwithus.html": {
@@ -101,7 +103,7 @@
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2019-02-19-at-11.54.38-am-600x409.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/screen%20shot%202019-02-19%20at%2011.54.38%20am-600x409.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -564,7 +566,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/FjMxRqWkwXM",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -680,7 +682,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=A_zn9lc4RTc&feature=youtu.be",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -796,7 +798,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/IkgPlA9ueQU",
+              "src": "https://youtu.be/IuYDakM3zIM",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -986,7 +988,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1-1400x1066.png",
               "link": "",
               "alt": "SDCOE Logo, Future Without Boundaries",
               "title": ""
@@ -1251,7 +1253,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ccmverticallogo-300x381.png",
+              "src": "@PROJECT_PATH@/assets/images/ccm+vertical+logo-300x381.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1263,7 +1265,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cff-logo-600x589.png",
+              "src": "@PROJECT_PATH@/assets/images/cff_logo-600x589.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1274,7 +1276,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nicu-division-of-horizontal-600x119.png",
+              "src": "@PROJECT_PATH@/assets/images/nicu_division_of-horizontal-600x119.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1416,7 +1418,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1400x1066.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -1654,7 +1656,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://sdcoe.k12oms.org/eventdetail.php?gid=2287&amp;id=165314\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mesi2019.sched.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PLAN YOUR EXPERIENCE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mesi.innovatesd.org/symposium\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScl2ojCyPyZ4yd-JYlikoESca-pl_yn21K5qticgXY9_NECBA/viewform\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">APPLY</a>",
           "button4": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MESI HOME</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>",
@@ -1768,7 +1770,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ccmverticallogo-300x381.png",
+              "src": "@PROJECT_PATH@/assets/images/ccm+vertical+logo-300x381.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1780,7 +1782,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cff-logo-600x589.png",
+              "src": "@PROJECT_PATH@/assets/images/cff_logo-600x589.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1791,7 +1793,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nicu-division-of-horizontal-600x119.png",
+              "src": "@PROJECT_PATH@/assets/images/nicu_division_of-horizontal-600x119.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1885,7 +1887,7 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.50.49-pm-2000x1125.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.50.49%20pm-2000x1125.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1899,7 +1901,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-1.24.55-pm-2000x1126.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%201.24.55%20pm-2000x1126.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1913,7 +1915,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.08-pm-2000x1126.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.08%20pm-2000x1126.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1927,7 +1929,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.20-pm-2000x1123.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.20%20pm-2000x1123.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1941,7 +1943,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.33-pm-2000x1126.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.33%20pm-2000x1126.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1955,7 +1957,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.45-pm-2000x1122.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.45%20pm-2000x1122.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
