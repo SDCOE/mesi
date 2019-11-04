@@ -44,7 +44,9 @@
     "uniqCompNum": 99,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/mesi"
   },
   "pages": {
     "index.html": {
@@ -134,7 +136,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-168x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-168x128.png",
               "height": 128,
               "alt": "SDCOE LOGO WHITE",
               "link": "#top",
@@ -322,7 +324,7 @@
             }
           },
           "title": "#GetMESI 2019",
-          "text": "The MESI initiative got off to a great start celebrating Digital Learning Day on Feb. 28, 2019. A free, online, virtual conference hosted drop-in sessions&nbsp;throughout the day. Live participants were able to ask questions and learn from the following noted presenters:<br><br>Josh Weisgrau<br>Eric Chagala, Ed.D.<br>Laura Spencer, Ed.D.<br>Erin English, Ed.D.<br>Michanne Hoctor Thompson, Ed.D.<br>Michael Bruder<br>Sarah Trueblood<br>Christine Dixon<br>Heidi Baynes<br><a href=\"https://www.youtube.com/watch?v=A_zn9lc4RTc\" target=\"_blank\" class=\"text-info\">Dan Hendricks</a><br>Chris Catuara<br>STEAM Maker Workshop<br>Pamela Rabin<br><a href=\"https://youtu.be/IkgPlA9ueQU\" target=\"_blank\" class=\"text-info\">Grant Lichtman</a><br>",
+          "text": "The MESI initiative got off to a great start celebrating Digital Learning Day on Feb. 28, 2019. A free, online, virtual conference hosted drop-in sessions&nbsp;throughout the day. Live participants were able to ask questions and learn from the following noted presenters:<br><br>Josh Weisgrau<br>Eric Chagala, Ed.D.<br>Laura Spencer, Ed.D.<br>Erin English, Ed.D.<br>Michanne Hoctor Thompson, Ed.D.<br>Michael Bruder<br>Sarah Trueblood<br>Christine Dixon<br>Heidi Baynes<br><a href=\"https://youtu.be/A_zn9lc4RTc\" target=\"_blank\" class=\"text-info\">Dan Hendricks</a><br>Chris Catuara<br>STEAM Maker Workshop<br>Pamela Rabin<br><a href=\"https://youtu.be/IkgPlA9ueQU\" target=\"_blank\" class=\"text-info\">Grant Lichtman</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -363,7 +365,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ccmverticallogo-300x381.png",
+              "src": "@PROJECT_PATH@/assets/images/ccm+vertical+logo-300x381.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -375,7 +377,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cff-logo-600x589.png",
+              "src": "@PROJECT_PATH@/assets/images/cff_logo-600x589.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -386,7 +388,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nicu-division-of-horizontal-600x119.png",
+              "src": "@PROJECT_PATH@/assets/images/nicu_division_of-horizontal-600x119.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -528,7 +530,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1400x1066.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -631,7 +633,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-168x128.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-168x128.png",
               "height": 128,
               "alt": "SDCOE LOGO WHITE",
               "link": "#top",
@@ -880,7 +882,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ccmverticallogo-300x381.png",
+              "src": "@PROJECT_PATH@/assets/images/ccm+vertical+logo-300x381.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -892,7 +894,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cff-logo-600x589.png",
+              "src": "@PROJECT_PATH@/assets/images/cff_logo-600x589.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -903,7 +905,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nicu-division-of-horizontal-600x119.png",
+              "src": "@PROJECT_PATH@/assets/images/nicu_division_of-horizontal-600x119.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -997,7 +999,7 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.50.49-pm-2000x1125.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.50.49%20pm-2000x1125.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1011,7 +1013,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-1.24.55-pm-2000x1126.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%201.24.55%20pm-2000x1126.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1025,7 +1027,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.08-pm-2000x1126.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.08%20pm-2000x1126.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1039,7 +1041,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.20-pm-2000x1123.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.20%20pm-2000x1123.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1053,7 +1055,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.33-pm-2000x1126.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.33%20pm-2000x1126.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1067,7 +1069,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.45-pm-2000x1122.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.45%20pm-2000x1122.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
