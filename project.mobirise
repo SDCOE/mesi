@@ -60,7 +60,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -134,11 +134,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-color-165x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-168x128.png",
               "height": 128,
-              "alt": "Home",
+              "alt": "SDCOE LOGO WHITE",
               "link": "#top",
-              "title": "Home"
+              "title": "SDCOE LOGO white Future without Boundaries"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -557,7 +557,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -631,11 +631,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-color-165x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-168x128.png",
               "height": 128,
-              "alt": "Home",
+              "alt": "SDCOE LOGO WHITE",
               "link": "#top",
-              "title": "Home",
+              "title": "SDCOE LOGO white Future without Boundaries",
               "linkInNewWindow": false
             },
             "iconFont": {
