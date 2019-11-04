@@ -41,10 +41,12 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "uniqCompNum": 99,
+    "uniqCompNum": 93,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/mesi"
   },
   "pages": {
     "index.html": {
@@ -66,7 +68,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#005488",
+            "bgColor": "#000000",
             "fontSize": "1.35",
             "fontName": {
               "name": "Lato",
@@ -76,7 +78,7 @@
             "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.innovatesd.org/\" target=\"_blank\">Return to #innovateSD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-j\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"symposium.html\" aria-expanded=\"false\">MESI Symposium<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.innovatesd.org/\" target=\"_blank\">Return to #innovateSD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -109,13 +111,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#003455"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#004b79!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#005488"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#cccccc",
@@ -151,44 +153,110 @@
           "_anchor": "ext_menu-3"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "100px"
-            },
-            ".lead P": {
-              "font-size": "24px"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButton": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "28",
             "paddingTop": "5",
-            "paddingBottom": "5",
+            "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mesi-800x904.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sdcoeview-2000x1500.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
-          "title": "MESI<br>",
-          "text": "<p>&nbsp;Making | Entrepreneurship | STEAM | Inventing</p><p><b>It’s time to #GetMESI in the classroom.</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1-1400x1066.png",
+              "link": "",
+              "alt": "SDCOE Logo, Future Without Boundaries",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "MESI",
+          "text": "<b>Making | Entrepreneurship | STEAM | Inventing</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-2p"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-26",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-size": "100px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#99b4c2"
+          },
+          "title": "Events &amp; Opportunities",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#99b4c2"
+          },
+          "text": "<blockquote>The San Diego County Office of Education presents the MESI Symposium in collaboration with the Comic-Con Museum and the Classroom of the Future Foundation. We thank our sponsor North Island Credit Union for their generous donation. &nbsp;</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2g",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
@@ -198,7 +266,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#005488",
+            "bgColor": "#99b4c2",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -220,126 +288,6 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#005488",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mesibreakout-1400x681.jpeg",
-              "link": "",
-              "alt": "James Stanton presents at MESI 2019",
-              "title": "James Stanton at MESI 2019"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "MESI Symposium 2019",
-          "text": "Thank you to all our participants and sponsors for helping us to make Tuesday, June 25, 2019 an amazing day of learning. The San Diego County Office of Education presented the MESI Symposium in collaboration with the Comic-Con Museum and the Classroom of the Future Foundation. It was a day of activities and breakouts to share best practices and resources in Making, Entrepreneurship, STEAM and Inventing. We thank our sponsor North Island Credit Union for their generous donation.  ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-2m",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#efefef"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#005488",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/get-mesi-save-the-date-600x840.jpeg",
-              "link": "",
-              "alt": "Get MESI Flyer, decorative",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "#GetMESI 2019",
-          "text": "The MESI initiative got off to a great start celebrating Digital Learning Day on Feb. 28, 2019. A free, online, virtual conference hosted drop-in sessions&nbsp;throughout the day. Live participants were able to ask questions and learn from the following noted presenters:<br><br>Josh Weisgrau<br>Eric Chagala, Ed.D.<br>Laura Spencer, Ed.D.<br>Erin English, Ed.D.<br>Michanne Hoctor Thompson, Ed.D.<br>Michael Bruder<br>Sarah Trueblood<br>Christine Dixon<br>Heidi Baynes<br><a href=\"https://youtu.be/A_zn9lc4RTc\" target=\"_blank\" class=\"text-info\">Dan Hendricks</a><br>Chris Catuara<br>STEAM Maker Workshop<br>Pamela Rabin<br><a href=\"https://youtu.be/IkgPlA9ueQU\" target=\"_blank\" class=\"text-info\">Grant Lichtman</a><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box5-2q"
-        },
-        {
-          "_params": {
             "showImages": true,
             "showTitles": false,
             "showSubtitles": false,
@@ -352,7 +300,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -363,7 +311,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ccmverticallogo-300x381.png",
+              "src": "@PROJECT_PATH@/assets/images/ccm+vertical+logo-300x381.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -375,7 +323,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cff-logo-600x589.png",
+              "src": "@PROJECT_PATH@/assets/images/cff_logo-600x589.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -386,7 +334,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nicu-division-of-horizontal-600x119.png",
+              "src": "@PROJECT_PATH@/assets/images/nicu_division_of-horizontal-600x119.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -528,7 +476,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1400x1066.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -563,7 +511,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#005488",
+            "bgColor": "#000000",
             "fontSize": "1.35",
             "fontName": {
               "name": "Lato",
@@ -573,7 +521,7 @@
             "fontColor": "#cccccc",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.innovatesd.org/\" target=\"_blank\">Return to #innovateSD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-q\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features1-j\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"symposium.html\" aria-expanded=\"false\">MESI Symposium<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://www.innovatesd.org/\" target=\"_blank\">Return to #innovateSD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -606,13 +554,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#003455"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#004b79!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#005488"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#cccccc",
@@ -782,7 +730,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#005488",
+            "bgColor": "#99b4c2",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -880,7 +828,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ccmverticallogo-300x381.png",
+              "src": "@PROJECT_PATH@/assets/images/ccm+vertical+logo-300x381.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -892,7 +840,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cff-logo-600x589.png",
+              "src": "@PROJECT_PATH@/assets/images/cff_logo-600x589.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -903,7 +851,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nicu-division-of-horizontal-600x119.png",
+              "src": "@PROJECT_PATH@/assets/images/nicu_division_of-horizontal-600x119.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -997,7 +945,7 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.50.49-pm-2000x1125.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.50.49%20pm-2000x1125.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1011,7 +959,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-1.24.55-pm-2000x1126.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%201.24.55%20pm-2000x1126.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1025,7 +973,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.08-pm-2000x1126.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.08%20pm-2000x1126.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1039,7 +987,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.20-pm-2000x1123.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.20%20pm-2000x1123.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1053,7 +1001,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.33-pm-2000x1126.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.33%20pm-2000x1126.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1067,7 +1015,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2019-05-17-at-12.51.45-pm-2000x1122.png",
+                "image": "@PROJECT_PATH@/assets/images/screen%20shot%202019-05-17%20at%2012.51.45%20pm-2000x1122.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
